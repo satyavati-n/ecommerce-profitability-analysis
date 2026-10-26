@@ -1,0 +1,851 @@
+﻿Order ID,Order Date,Customer ID,Customer Name,City,State,Region,Product Name,Category,Sales,Quantity,Profit,Payment Method,Order Status
+IND-2023-1001,08-03-2023,CUS-1023,Gaurav Bansal,Bengaluru,Karnataka,South,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3836.8,4,0,UPI,Cancelled
+IND-2023-1002,03-06-2023,CUS-1007,Vikram Malhotra,Patna,Bihar,East,SanDisk 128GB Ultra Dual Drive,Electronics,1358.4,2,165.3,UPI,Delivered
+IND-2023-1003,13-02-2023,CUS-1018,Divya Pillai,Chennai,Tamil Nadu,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,424.15,1,103.86,Cash on Delivery,Processing
+IND-2023-1004,20-04-2023,CUS-1021,Arjun Reddy,Chennai,Tamil Nadu,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,5196,4,1280,Cash on Delivery,Delivered
+IND-2023-1005,29-11-2023,CUS-1008,Pooja Nair,Delhi,Delhi,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,35996,4,4800,Net Banking,Delivered
+IND-2023-1006,16-10-2023,CUS-1004,Ananya Iyer,Chandigarh,Punjab,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1795.5,2,349.12,Cash on Delivery,Delivered
+IND-2023-1007,06-01-2023,CUS-1012,Kavita Rao,Chennai,Tamil Nadu,South,SanDisk 128GB Ultra Dual Drive,Electronics,1443.3,2,228.98,Credit Card,Delivered
+IND-2023-1008,27-10-2023,CUS-1016,Ritu Mehta,Mumbai,Maharashtra,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1560,2,480,Cash on Delivery,Delivered
+IND-2023-1009,11-11-2023,CUS-1006,Sneha Mukherjee,Delhi,Delhi,North,Sony Bravia 43-inch 4K LED TV,Electronics,111121.5,3,-16668.22,UPI,Returned
+IND-2023-1010,27-11-2023,CUS-1011,Aditya Joshi,Delhi,Delhi,North,Canon EOS 1500D DSLR Camera,Electronics,134368,4,-7194,Credit Card,Delivered
+IND-2023-1011,15-01-2023,CUS-1024,Meera Nambiar,Mumbai,Maharashtra,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,741,1,210.75,UPI,Delivered
+IND-2023-1012,05-04-2023,CUS-1006,Sneha Mukherjee,Ahmedabad,Gujarat,West,SanDisk 128GB Ultra Dual Drive,Electronics,1443.3,2,228.98,Credit Card,Delivered
+IND-2023-1013,16-01-2023,CUS-1011,Aditya Joshi,Bhubaneswar,Odisha,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,4317.6,3,330.45,Debit Card,Delivered
+IND-2023-1014,06-02-2023,CUS-1018,Divya Pillai,Mumbai,Maharashtra,West,Levi's Men Slim Fit Denim Jeans,Fashion,3998.4,2,550.3,UPI,Delivered
+IND-2023-1015,14-09-2023,CUS-1004,Ananya Iyer,Hyderabad,Telangana,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,4857.3,3,-728.6,Credit Card,Returned
+IND-2023-1016,25-11-2023,CUS-1011,Aditya Joshi,Pune,Maharashtra,West,Spigen Armor Back Cover,Mobiles & Accessories,1358.3,2,0,Credit Card,Cancelled
+IND-2023-1017,31-08-2023,CUS-1005,Rohan Gupta,Kochi,Kerala,South,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,10624.15,1,-2856.14,Net Banking,Delivered
+IND-2023-1018,07-12-2023,CUS-1016,Ritu Mehta,Hyderabad,Telangana,South,JBL Flip 6 Portable Bluetooth Speaker,Electronics,8099.1,1,525.07,Credit Card,Delivered
+IND-2023-1019,07-10-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Milton Thermosteel Bottle 1000ml,Home & Kitchen,3213,4,414.75,UPI,Delivered
+IND-2023-1020,19-11-2023,CUS-1024,Meera Nambiar,Hyderabad,Telangana,South,HP Pavilion 15 Core i5 Laptop,Electronics,109980,2,0,Cash on Delivery,Cancelled
+IND-2023-1021,14-10-2023,CUS-1006,Sneha Mukherjee,Ahmedabad,Gujarat,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,1798,2,-240,UPI,Delivered
+IND-2023-1022,26-01-2023,CUS-1019,Manish Agarwal,Pune,Maharashtra,West,Peter England Formal Trousers,Fashion,4796,4,1160,UPI,Delivered
+IND-2023-1023,22-12-2023,CUS-1024,Meera Nambiar,Bengaluru,Karnataka,South,Puma Unisex Smashic Sneakers,Fashion,9196,4,0,Cash on Delivery,Cancelled
+IND-2023-1024,24-04-2023,CUS-1013,Amit Mishra,Bengaluru,Karnataka,South,Peter England Formal Trousers,Fashion,4556.2,4,980.15,Credit Card,Delivered
+IND-2023-1025,02-04-2023,CUS-1020,Shweta Tiwari,Lucknow,Uttar Pradesh,North,OnePlus 11R 5G (128GB),Mobiles & Accessories,75998.1,2,-11399.72,Cash on Delivery,Returned
+IND-2023-1026,04-01-2023,CUS-1019,Manish Agarwal,Kochi,Kerala,South,Logitech Wireless Keyboard & Mouse,Electronics,5382,4,951.5,Net Banking,Delivered
+IND-2023-1027,18-09-2023,CUS-1013,Amit Mishra,Chennai,Tamil Nadu,South,Logitech Wireless Keyboard & Mouse,Electronics,4260.75,3,881.81,Net Banking,Shipped
+IND-2023-1028,08-03-2023,CUS-1010,Neha Singh,Mumbai,Maharashtra,West,Levi's Men Slim Fit Denim Jeans,Fashion,2374.05,1,556.29,UPI,Shipped
+IND-2023-1029,19-10-2023,CUS-1024,Meera Nambiar,Indore,Madhya Pradesh,West,Lavie Women Handbag,Fashion,1611,1,255.75,Cash on Delivery,Processing
+IND-2023-1030,15-06-2023,CUS-1021,Arjun Reddy,Mumbai,Maharashtra,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1497,3,480,UPI,Shipped
+IND-2023-1031,31-07-2023,CUS-1016,,Bengaluru,Karnataka,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,850.5,1,139.12,Credit Card,Delivered
+IND-2023-1032,30-07-2023,CUS-1021,Arjun Reddy,Jaipur,Rajasthan,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,10236.8,4,280.6,Cash on Delivery,Processing
+IND-2023-1033,21-10-2023,CUS-1001,Aarav Sharma,Indore,Madhya Pradesh,West,Biba Women Printed Anarkali Kurta,Fashion,1699.15,1,295.11,Cash on Delivery,Shipped
+IND-2023-1034,01-07-2023,CUS-1014,Sunita Das,Indore,Madhya Pradesh,West,Biba Women Printed Anarkali Kurta,Fashion,1999,1,520,Cash on Delivery,Delivered
+IND-2023-1035,24-11-2023,CUS-1024,Meera Nambiar,Mumbai,Maharashtra,West,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,1139.05,1,215.04,Credit Card,Delivered
+IND-2023-1036,13-05-2023,CUS-1021,Arjun Reddy,Lucknow,Uttar Pradesh,North,Puma Unisex Smashic Sneakers,Fashion,6207.3,3,-1057.28,UPI,Delivered
+IND-2023-1037,23-12-2023,CUS-1016,Ritu Mehta,Jaipur,Rajasthan,North,Fastrack Analog Watch for Men,Fashion,5180,4,1240,UPI,Delivered
+IND-2023-1038,13-02-2023,CUS-1001,Aarav Sharma,Pune,Maharashtra,West,Levi's Men Slim Fit Denim Jeans,Fashion,7122.15,3,1668.86,Debit Card,Delivered
+IND-2023-1039,09-03-2023,CUS-1016,Ritu Mehta,Kolkata,West Bengal,East,Biba Women Printed Anarkali Kurta,Fashion,3398.3,2,590.23,Credit Card,Delivered
+IND-2023-1040,05-08-2023,CUS-1017,Deepak Chopra,Patna,Bihar,East,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6078.1,2,860.08,Credit Card,Delivered
+IND-2023-1041,26-10-2023,CUS-1004,Ananya Iyer,Indore,Madhya Pradesh,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,8157.45,3,570.34,UPI,Delivered
+IND-2023-1042,21-06-2023,CUS-1017,Deepak Chopra,Kochi,Kerala,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2998,2,720,UPI,Shipped
+IND-2023-1043,16-08-2023,CUS-1004,Ananya Iyer,Patna,Bihar,East,SanDisk 128GB Ultra Dual Drive,Electronics,2716.8,4,330.6,UPI,Delivered
+IND-2023-1044,22-03-2023,CUS-1018,Divya Pillai,Bengaluru,Karnataka,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2698.2,2,495.15,UPI,Delivered
+IND-2023-1045,06-04-2023,CUS-1017,Deepak Chopra,Ahmedabad,Gujarat,West,Biba Women Printed Anarkali Kurta,Fashion,3398.3,2,590.23,Debit Card,Delivered
+IND-2023-1046,22-08-2023,CUS-1004,Ananya Iyer,Chandigarh,Punjab,North,Biba Women Printed Anarkali Kurta,Fashion,5397.3,3,1110.22,Cash on Delivery,Delivered
+IND-2023-1047,16-05-2023,CUS-1002,Priya Patel,Kochi,Kerala,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3702.15,3,813.86,UPI,Delivered
+IND-2023-1048,17-10-2023,CUS-1020,Shweta Tiwari,Patna,Bihar,East,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4084.05,1,558.79,Debit Card,Delivered
+IND-2023-1049,15-08-2023,CUS-1003,Rahul Verma,Lucknow,Uttar Pradesh,North,Allen Solly Casual Cotton Shirt,Fashion,4497,3,1140,Cash on Delivery,Shipped
+IND-2023-1050,28-12-2023,CUS-1024,Meera Nambiar,Kolkata,West Bengal,East,Allen Solly Casual Cotton Shirt,Fashion,5396.4,4,1070.3,Credit Card,Delivered
+IND-2023-1051,08-04-2023,CUS-1011,Aditya Joshi,Bhubaneswar,Odisha,East,Peter England Formal Trousers,Fashion,2398,2,580,UPI,Delivered
+IND-2023-1052,21-05-2023,CUS-1012,Kavita Rao,Pune,Maharashtra,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,26997,3,3600,Debit Card,Delivered
+IND-2023-1053,23-12-2023,CUS-1017,Deepak Chopra,Patna,Bihar,East,SanDisk 128GB Ultra Dual Drive,Electronics,1528.2,2,292.65,UPI,Processing
+IND-2023-1054,25-06-2023,CUS-1014,Sunita Das,Bengaluru,Karnataka,South,Levi's Men Slim Fit Denim Jeans,Fashion,7497,3,1950,UPI,Shipped
+IND-2023-1055,06-06-2023,CUS-1013,Amit Mishra,Pune,Maharashtra,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,525,1,175,Cash on Delivery,Delivered
+IND-2023-1056,24-03-2023,CUS-1024,Meera Nambiar,Pune,Maharashtra,West,Biba Women Printed Anarkali Kurta,Fashion,1999,1,520,Cash on Delivery,Delivered
+IND-2023-1057,12-11-2023,CUS-1001,Aarav Sharma,Patna,Bihar,East,Lavie Women Handbag,Fashion,6444,4,1023,Cash on Delivery,Delivered
+IND-2023-1058,08-08-2023,CUS-1003,Rahul Verma,Kochi,Kerala,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,79998,2,9600,Credit Card,Delivered
+IND-2023-1059,26-05-2023,CUS-1006,Sneha Mukherjee,Bhubaneswar,Odisha,East,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1757.5,1,-263.62,Cash on Delivery,Returned
+IND-2023-1060,23-12-2023,CUS-1006,Sneha Mukherjee,Hyderabad,Telangana,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,31999.2,1,-1199.85,UPI,Delivered
+IND-2023-1061,12-05-2023,CUS-1007,Vikram Malhotra,Kochi,Kerala,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,1499,1,360,Cash on Delivery,Delivered
+IND-2023-1062,06-04-2023,CUS-1021,Arjun Reddy,Chennai,Tamil Nadu,South,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6398,2,1100,Credit Card,Delivered
+IND-2023-1063,23-05-2023,CUS-1010,Neha Singh,Kochi,Kerala,South,Sony Bravia 43-inch 4K LED TV,Electronics,35091,1,1175.75,UPI,Delivered
+IND-2023-1064,07-11-2023,CUS-1017,Deepak Chopra,Jaipur,Rajasthan,North,Puma Unisex Smashic Sneakers,Fashion,6552.15,3,-798.64,UPI,Delivered
+IND-2023-1065,20-11-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,Levi's Men Slim Fit Denim Jeans,Fashion,8496.6,4,1475.45,UPI,Delivered
+IND-2023-1066,15-11-2023,CUS-1008,Pooja Nair,Mumbai,Maharashtra,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,7738.2,2,795.15,Cash on Delivery,Delivered
+IND-2023-1067,06-11-2023,CUS-1006,Sneha Mukherjee,Indore,Madhya Pradesh,West,SanDisk 128GB Ultra Dual Drive,Electronics,849,1,210,UPI,Delivered
+IND-2023-1068,08-09-2023,CUS-1003,Rahul Verma,Jaipur,Rajasthan,North,Canon EOS 1500D DSLR Camera,Electronics,107074.5,3,0,Debit Card,Cancelled
+IND-2023-1069,03-03-2023,CUS-1018,Divya Pillai,Mumbai,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,9117.15,3,1290.11,UPI,Processing
+IND-2023-1070,08-03-2023,CUS-1021,Arjun Reddy,Bhubaneswar,Odisha,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,119997,3,-17999.55,Cash on Delivery,Returned
+IND-2023-1071,09-03-2023,CUS-1022,Tanvi Deshmukh,Pune,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,33999.15,1,300.11,Credit Card,Delivered
+IND-2023-1072,26-03-2023,CUS-1014,Sunita Das,Chandigarh,Punjab,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2340,3,720,Debit Card,Shipped
+IND-2023-1073,04-10-2023,CUS-1023,Gaurav Bansal,Patna,Bihar,East,Samsung Galaxy S23 5G,Mobiles & Accessories,194997,3,-29249.55,Debit Card,Returned
+IND-2023-1074,14-01-2023,CUS-1003,Rahul Verma,Chennai,Tamil Nadu,South,Peter England Formal Trousers,Fashion,3057.45,3,-458.62,Credit Card,Returned
+IND-2023-1075,28-06-2023,CUS-1006,Sneha Mukherjee,Patna,Bihar,East,Spigen Armor Back Cover,Mobiles & Accessories,2397,3,750,Credit Card,Delivered
+IND-2023-1076,02-07-2023,CUS-1017,Deepak Chopra,,Odisha,East,Lavie Women Handbag,Fashion,1521.5,1,188.62,Debit Card,Delivered
+IND-2023-1077,11-03-2023,CUS-1021,Arjun Reddy,Delhi,Delhi,North,HP Pavilion 15 Core i5 Laptop,Electronics,186966,4,-1545.5,Credit Card,Shipped
+IND-2023-1078,26-11-2023,CUS-1010,Neha Singh,Indore,Madhya Pradesh,West,Levi's Men Slim Fit Denim Jeans,Fashion,2374.05,1,556.29,Credit Card,Delivered
+IND-2023-1079,13-05-2023,CUS-1002,Priya Patel,Indore,Madhya Pradesh,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,7400,4,1360,UPI,Delivered
+IND-2023-1080,30-10-2023,CUS-1024,Meera Nambiar,Delhi,Delhi,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3596,4,-480,Credit Card,Delivered
+IND-2023-1081,12-02-2023,CUS-1006,Sneha Mukherjee,Patna,Bihar,East,Philips Air Fryer HD9200,Home & Kitchen,18522.15,3,2118.86,Net Banking,Shipped
+IND-2023-1082,20-07-2023,CUS-1006,Sneha Mukherjee,Hyderabad,Telangana,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,4047.3,3,742.72,UPI,Delivered
+IND-2023-1083,12-11-2023,CUS-1019,Manish Agarwal,Kochi,Kerala,South,JBL Flip 6 Portable Bluetooth Speaker,Electronics,28796.8,4,-599.4,Cash on Delivery,Delivered
+IND-2023-1084,24-08-2023,CUS-1024,Meera Nambiar,Kochi,Kerala,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2693.25,3,523.69,Credit Card,Delivered
+IND-2023-1085,10-12-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Samsung Galaxy S23 5G,Mobiles & Accessories,165747.45,3,-337.16,UPI,Delivered
+IND-2023-1086,12-01-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,15298.3,2,375.23,UPI,Delivered
+IND-2023-1087,21-04-2023,CUS-1005,Rohan Gupta,Ahmedabad,Gujarat,West,Fastrack Analog Watch for Men,Fashion,1230.25,1,261.44,Credit Card,Delivered
+IND-2023-1088,03-09-2023,CUS-1010,Neha Singh,Delhi,Delhi,North,OnePlus 11R 5G (128GB),Mobiles & Accessories,143996.4,4,7200.3,Debit Card,Delivered
+IND-2023-1089,03-04-2023,CUS-1016,Ritu Mehta,Lucknow,Uttar Pradesh,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3416.2,4,-614.85,UPI,Delivered
+IND-2023-1090,11-01-2023,CUS-1015,Karan Kapoor,Bengaluru,Karnataka,South,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,899,1,-120,UPI,Processing
+IND-2023-1091,21-07-2023,CUS-1004,Ananya Iyer,Patna,Bihar,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,649,1,-97.35,Debit Card,Returned
+IND-2023-1092,21-08-2023,CUS-1009,Rajesh Kumar,Bhubaneswar,Odisha,East,Biba Women Printed Anarkali Kurta,Fashion,3598.2,2,0,Credit Card,Cancelled
+IND-2023-1093,01-02-2023,CUS-1015,Karan Kapoor,Chandigarh,Punjab,North,SanDisk 128GB Ultra Dual Drive,Electronics,764.1,1,146.32,Cash on Delivery,Delivered
+IND-2023-1094,04-11-2023,CUS-1006,Sneha Mukherjee,Mumbai,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,103998.4,2,-5099.7,Cash on Delivery,Delivered
+IND-2023-1095,30-03-2023,CUS-1007,Vikram Malhotra,Chennai,Tamil Nadu,South,Lavie Women Handbag,Fashion,1611,1,255.75,Debit Card,Processing
+IND-2023-1096,01-12-2023,CUS-1005,Rohan Gupta,Jaipur,Rajasthan,North,HP Pavilion 15 Core i5 Laptop,Electronics,131976,3,0,UPI,Cancelled
+IND-2023-1097,08-08-2023,CUS-1002,Priya Patel,Ahmedabad,Gujarat,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,3024,4,273,Cash on Delivery,Shipped
+IND-2023-1098,09-05-2023,CUS-1018,Divya Pillai,Ahmedabad,Gujarat,West,Lavie Women Handbag,Fashion,1790,1,390,Cash on Delivery,Delivered
+IND-2023-1099,28-01-2023,CUS-1024,Meera Nambiar,Chennai,Tamil Nadu,South,Fastrack Analog Watch for Men,Fashion,1165.5,1,212.88,Debit Card,Processing
+IND-2023-1100,25-05-2023,CUS-1007,Vikram Malhotra,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,44996.4,4,-9549.7,Credit Card,Delivered
+IND-2023-1101,03-07-2023,CUS-1010,Neha Singh,Patna,Bihar,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,4796.8,4,540.6,UPI,Delivered
+IND-2023-1102,10-12-2023,CUS-1023,Gaurav Bansal,Pune,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,41990,1,4500,UPI,Delivered
+IND-2023-1103,16-08-2023,CUS-1006,Sneha Mukherjee,Hyderabad,Telangana,South,Spigen Armor Back Cover,Mobiles & Accessories,799,1,250,Cash on Delivery,Shipped
+IND-2023-1104,05-10-2023,CUS-1003,Rahul Verma,Kochi,Kerala,South,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3056.6,4,-884.55,Credit Card,Processing
+IND-2023-1105,16-07-2023,CUS-1012,Kavita Rao,Patna,Bihar,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,1499,1,360,UPI,Delivered
+IND-2023-1106,06-05-2023,CUS-1003,Rahul Verma,Lucknow,Uttar Pradesh,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1996,4,640,UPI,Delivered
+IND-2023-1107,11-12-2023,CUS-1009,Rajesh Kumar,Mumbai,Maharashtra,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1795.5,2,349.12,Credit Card,Shipped
+IND-2023-1108,05-12-2023,CUS-1023,Gaurav Bansal,Kochi,Kerala,South,HP Pavilion 15 Core i5 Laptop,Electronics,46741.5,1,0,UPI,Cancelled
+IND-2023-1109,28-04-2023,CUS-1020,Shweta Tiwari,Indore,Madhya Pradesh,West,Allen Solly Casual Cotton Shirt,Fashion,2398.4,2,310.3,Cash on Delivery,Shipped
+IND-2023-1110,15-07-2023,CUS-1005,Rohan Gupta,Kochi,Kerala,South,Puma Unisex Smashic Sneakers,Fashion,8276.4,4,-1409.7,Cash on Delivery,Delivered
+IND-2023-1111,28-09-2023,CUS-1021,Arjun Reddy,Chennai,Tamil Nadu,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2409.75,3,-361.46,Debit Card,Returned
+IND-2023-1112,26-10-2023,CUS-1011,Aditya Joshi,Delhi,Delhi,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,2336.4,4,685.3,UPI,Delivered
+IND-2023-1113,12-12-2023,CUS-1010,Neha Singh,Chennai,Tamil Nadu,South,Spigen Armor Back Cover,Mobiles & Accessories,639.2,1,130.15,Credit Card,Delivered
+IND-2023-1114,07-10-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3312.45,3,521.59,Cash on Delivery,Delivered
+IND-2023-1115,20-03-2023,CUS-1017,Deepak Chopra,Kolkata,West Bengal,East,Lavie Women Handbag,Fashion,3580,2,780,Credit Card,Delivered
+IND-2023-1116,14-08-2023,CUS-1017,Deepak Chopra,Indore,Madhya Pradesh,West,Spigen Armor Back Cover,Mobiles & Accessories,679.15,1,160.11,UPI,Delivered
+IND-2023-1117,17-03-2023,CUS-1007,Vikram Malhotra,Delhi,Delhi,North,Sony Bravia 43-inch 4K LED TV,Electronics,124768,4,-6994,UPI,Delivered
+IND-2023-1118,06-07-2023,CUS-1012,Kavita Rao,Delhi,Delhi,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,446.25,1,115.94,Cash on Delivery,Delivered
+IND-2023-1119,12-04-2023,CUS-1005,Rohan Gupta,Chandigarh,Punjab,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,2292.45,3,-663.41,Cash on Delivery,Delivered
+IND-2023-1120,19-09-2023,CUS-1018,Divya Pillai,Patna,Bihar,East,Canon EOS 1500D DSLR Camera,Electronics,39890.5,1,2925.38,Debit Card,Delivered
+IND-2023-1121,14-11-2023,CUS-1013,Amit Mishra,Lucknow,Uttar Pradesh,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,43998,2,4800,,Delivered
+IND-2023-1122,11-12-2023,CUS-1011,Aditya Joshi,Kolkata,West Bengal,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,17998,2,2400,Cash on Delivery,Delivered
+IND-2023-1123,04-05-2023,CUS-1002,Priya Patel,Lucknow,Uttar Pradesh,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,803.25,1,103.69,Cash on Delivery,Delivered
+IND-2023-1124,05-04-2023,CUS-1006,Sneha Mukherjee,Bhubaneswar,Odisha,East,Levi's Men Slim Fit Denim Jeans,Fashion,7122.15,3,1668.86,Credit Card,Delivered
+IND-2023-1125,30-11-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,Philips Air Fryer HD9200,Home & Kitchen,5849.1,1,462.57,UPI,Delivered
+IND-2023-1126,09-10-2023,CUS-1018,Divya Pillai,Pune,Maharashtra,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1665,1,201.25,Credit Card,Delivered
+IND-2023-1127,02-07-2023,CUS-1010,Neha Singh,Chennai,Tamil Nadu,South,Sony Bravia 43-inch 4K LED TV,Electronics,31192,1,-1748.5,Credit Card,Delivered
+IND-2023-1128,06-09-2023,CUS-1017,Deepak Chopra,Jaipur,Rajasthan,North,Levi's Men Slim Fit Denim Jeans,Fashion,8496.6,4,1475.45,UPI,Delivered
+IND-2023-1129,08-03-2023,CUS-1003,Rahul Verma,Lucknow,Uttar Pradesh,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,616.55,1,195.66,Net Banking,Delivered
+IND-2023-1130,05-05-2023,CUS-1003,Rahul Verma,Hyderabad,Telangana,South,Fastrack Analog Watch for Men,Fashion,1165.5,1,212.88,Credit Card,Delivered
+IND-2023-1131,05-09-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,29997.6,3,-9974.55,UPI,Processing
+IND-2023-1132,01-12-2023,CUS-1001,Aarav Sharma,Bengaluru,Karnataka,South,Prestige Iris 750W Mixer Grinder,Home & Kitchen,3199,1,550,Cash on Delivery,Delivered
+IND-2023-1133,01-03-2023,CUS-1018,Divya Pillai,Hyderabad,Telangana,South,Biba Women Printed Anarkali Kurta,Fashion,1999,1,520,UPI,Shipped
+IND-2023-1134,21-04-2023,CUS-1025,Siddharth Sen,Lucknow,Uttar Pradesh,North,Puma Unisex Smashic Sneakers,Fashion,1954.15,1,-438.64,UPI,Delivered
+IND-2023-1135,23-09-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Levi's Men Slim Fit Denim Jeans,Fashion,9496.2,4,2225.15,Debit Card,Delivered
+IND-2023-1136,09-02-2023,CUS-1004,Ananya Iyer,Ahmedabad,Gujarat,West,Puma Unisex Smashic Sneakers,Fashion,6207.3,3,-1057.28,Credit Card,Shipped
+IND-2023-1137,15-03-2023,CUS-1017,Deepak Chopra,Kolkata,West Bengal,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1272.45,3,311.59,UPI,Delivered
+IND-2023-1138,21-12-2023,CUS-1019,Manish Agarwal,Hyderabad,Telangana,South,Sony Bravia 43-inch 4K LED TV,Electronics,38990,1,4100,UPI,Delivered
+IND-2023-1139,25-11-2023,CUS-1001,Aarav Sharma,Lucknow,Uttar Pradesh,North,Levi's Men Slim Fit Denim Jeans,Fashion,8996.4,4,1850.3,Credit Card,Delivered
+IND-2023-1140,12-04-2023,CUS-1005,Rohan Gupta,Lucknow,Uttar Pradesh,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,41798.1,2,3150.07,UPI,Delivered
+IND-2023-1141,18-04-2023,CUS-1007,Vikram Malhotra,Chennai,Tamil Nadu,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,41798.1,2,-6269.71,Credit Card,Returned
+IND-2023-1142,08-12-2023,CUS-1014,Sunita Das,Ahmedabad,Gujarat,West,Fastrack Analog Watch for Men,Fashion,2072,2,231.5,UPI,Delivered
+IND-2023-1143,12-12-2023,CUS-1009,Rajesh Kumar,Bhubaneswar,Odisha,East,Canon EOS 1500D DSLR Camera,Electronics,142766,4,-895.5,UPI,Delivered
+IND-2023-1144,20-08-2023,CUS-1020,Shweta Tiwari,Hyderabad,Telangana,South,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1947,3,660,UPI,Delivered
+IND-2023-1145,18-11-2023,CUS-1020,Shweta Tiwari,Kolkata,West Bengal,East,Puma Unisex Smashic Sneakers,Fashion,8276.4,4,-1409.7,UPI,Processing
+IND-2023-1146,03-02-2023,CUS-1011,Aditya Joshi,Delhi,Delhi,North,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,4416.6,4,695.45,Cash on Delivery,Delivered
+IND-2023-1147,17-06-2023,CUS-1004,Ananya Iyer,Patna,Bihar,East,Levi's Men Slim Fit Denim Jeans,Fashion,4498.2,2,925.15,UPI,Shipped
+IND-2023-1148,20-03-2023,CUS-1003,Rahul Verma,Indore,Madhya Pradesh,West,Spigen Armor Back Cover,Mobiles & Accessories,759.05,1,220.04,UPI,Processing
+IND-2023-1149,10-11-2023,CUS-1018,Divya Pillai,Chennai,Tamil Nadu,South,Puma Unisex Smashic Sneakers,Fashion,2299,1,-180,UPI,Processing
+IND-2023-1150,07-10-2023,CUS-1022,Tanvi Deshmukh,Indore,Madhya Pradesh,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,31999.2,1,-1199.85,UPI,Delivered
+IND-2023-1151,12-05-2023,CUS-1007,Vikram Malhotra,Kolkata,West Bengal,East,Logitech Wireless Keyboard & Mouse,Electronics,4036.5,3,713.62,UPI,Delivered
+IND-2023-1152,08-07-2023,CUS-1011,Aditya Joshi,Jaipur,Rajasthan,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2340,3,720,Debit Card,Delivered
+IND-2023-1153,12-02-2023,CUS-1004,Ananya Iyer,Pune,Maharashtra,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,719.2,1,-254.85,UPI,Delivered
+IND-2023-1154,12-02-2023,CUS-1001,Aarav Sharma,Hyderabad,Telangana,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,399.2,1,85.15,Credit Card,Delivered
+IND-2023-1155,28-11-2023,CUS-1023,Gaurav Bansal,Hyderabad,Telangana,South,Fastrack Analog Watch for Men,Fashion,3496.5,3,638.62,Cash on Delivery,Shipped
+IND-2023-1156,16-05-2023,CUS-1019,Manish Agarwal,Bengaluru,Karnataka,South,Lavie Women Handbag,Fashion,4833,3,767.25,UPI,Delivered
+IND-2023-1157,06-11-2023,CUS-1002,Priya Patel,Ahmedabad,Gujarat,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,7400,4,1360,UPI,Delivered
+IND-2023-1158,30-03-2023,CUS-1014,Sunita Das,Lucknow,Uttar Pradesh,North,Allen Solly Casual Cotton Shirt,Fashion,4796.8,4,620.6,UPI,Delivered
+IND-2023-1159,27-10-2023,CUS-1021,Arjun Reddy,Patna,Bihar,East,Sony Bravia 43-inch 4K LED TV,Electronics,38990,1,4100,Debit Card,Delivered
+IND-2023-1160,04-03-2023,CUS-1025,Siddharth Sen,Bengaluru,Karnataka,South,Puma Unisex Smashic Sneakers,Fashion,6897,3,-540,Cash on Delivery,Delivered
+IND-2023-1161,25-01-2023,CUS-1013,Amit Mishra,Pune,Maharashtra,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,616.55,1,195.66,UPI,Delivered
+IND-2023-1162,03-12-2023,CUS-1016,Ritu Mehta,Kochi,Kerala,South,Spigen Armor Back Cover,Mobiles & Accessories,1598,2,500,UPI,Delivered
+IND-2023-1163,15-03-2023,CUS-1005,Rohan Gupta,Chandigarh,Punjab,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,649,1,220,UPI,Delivered
+IND-2023-1164,05-03-2023,CUS-1015,Karan Kapoor,Ahmedabad,Gujarat,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1168.2,2,342.65,Cash on Delivery,Delivered
+IND-2023-1165,16-09-2023,CUS-1001,Aarav Sharma,Bhubaneswar,Odisha,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2698.2,2,495.15,Cash on Delivery,Delivered
+IND-2023-1166,18-12-2023,CUS-1023,Gaurav Bansal,Delhi,Delhi,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,83596.2,4,6300.15,Cash on Delivery,Delivered
+IND-2023-1167,14-08-2023,CUS-1014,Sunita Das,Indore,Madhya Pradesh,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1872,3,369,Credit Card,Delivered
+IND-2023-1168,23-12-2023,CUS-1006,Sneha Mukherjee,Bengaluru,Karnataka,South,HP Pavilion 15 Core i5 Laptop,Electronics,109980,2,11600,Cash on Delivery,Shipped
+IND-2023-1169,07-11-2023,CUS-1017,Deepak Chopra,Kolkata,West Bengal,East,SanDisk 128GB Ultra Dual Drive,Electronics,2292.3,3,438.98,Cash on Delivery,Delivered
+IND-2023-1170,11-02-2023,CUS-1012,Kavita Rao,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,55249.15,1,-112.39,Cash on Delivery,Processing
+IND-2023-1171,17-09-2023,CUS-1002,Priya Patel,Bengaluru,Karnataka,South,Lavie Women Handbag,Fashion,5101.5,3,968.62,Credit Card,Delivered
+IND-2023-1172,11-04-2023,CUS-1020,Shweta Tiwari,Kochi,Kerala,South,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,4316.4,4,680.3,Credit Card,Delivered
+IND-2023-1173,22-02-2023,CUS-1014,Sunita Das,Mumbai,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,101997.45,3,900.34,UPI,Delivered
+IND-2023-1174,30-12-2023,CUS-1019,Manish Agarwal,Bengaluru,Karnataka,South,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1575,3,525,UPI,Delivered
+IND-2023-1175,13-09-2023,CUS-1017,Deepak Chopra,Kochi,Kerala,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1996,4,640,UPI,Delivered
+IND-2023-1176,27-01-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,47496.2,4,-7674.85,UPI,Delivered
+IND-2023-1177,20-03-2023,CUS-1008,Pooja Nair,Mumbai,Maharashtra,West,Sony Bravia 43-inch 4K LED TV,Electronics,70182,2,2351.5,Cash on Delivery,Delivered
+IND-2023-1178,19-02-2023,CUS-1018,Divya Pillai,Delhi,Delhi,North,SanDisk 128GB Ultra Dual Drive,Electronics,721.65,1,114.49,Cash on Delivery,Delivered
+IND-2023-1179,22-04-2023,CUS-1007,Vikram Malhotra,Jaipur,Rajasthan,North,Spigen Armor Back Cover,Mobiles & Accessories,679.15,1,160.11,Debit Card,Delivered
+IND-2023-1180,01-10-2023,CUS-1025,Siddharth Sen,Kochi,Kerala,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2998,2,720,Cash on Delivery,Shipped
+IND-2023-1181,30-08-2023,CUS-1005,Rohan Gupta,Mumbai,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,119997,3,14400,UPI,Shipped
+IND-2023-1182,22-05-2023,CUS-1017,Deepak Chopra,Patna,Bihar,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3596,4,-480,Debit Card,Delivered
+IND-2023-1183,20-11-2023,CUS-1010,Neha Singh,Jaipur,Rajasthan,North,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2598,2,-389.7,Cash on Delivery,Returned
+IND-2023-1184,01-11-2023,CUS-1006,Sneha Mukherjee,Chandigarh,Punjab,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,47496.2,4,-7124.43,UPI,Returned
+IND-2023-1185,25-03-2023,CUS-1004,Ananya Iyer,Delhi,Delhi,North,Samsung Galaxy S23 5G,Mobiles & Accessories,129998,2,14400,Cash on Delivery,Delivered
+IND-2023-1186,30-11-2023,CUS-1016,Ritu Mehta,Indore,Madhya Pradesh,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2409.75,3,0,Credit Card,Cancelled
+IND-2023-1187,26-01-2023,CUS-1019,Manish Agarwal,Kochi,Kerala,South,Sony Bravia 43-inch 4K LED TV,Electronics,116970,3,12300,Net Banking,Delivered
+IND-2023-1188,05-03-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,127996.8,4,-4799.4,UPI,Delivered
+IND-2023-1189,23-05-2023,CUS-1012,Kavita Rao,Patna,Bihar,East,Biba Women Printed Anarkali Kurta,Fashion,3798.1,2,890.08,Credit Card,Shipped
+IND-2023-1190,10-01-2023,CUS-1020,Shweta Tiwari,Chennai,Tamil Nadu,South,Lavie Women Handbag,Fashion,5728,4,486,UPI,Delivered
+IND-2023-1191,29-07-2023,CUS-1010,Neha Singh,Mumbai,Maharashtra,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2551.5,3,417.38,Debit Card,Delivered
+IND-2023-1192,28-01-2023,CUS-1002,Priya Patel,Delhi,Delhi,North,Canon EOS 1500D DSLR Camera,Electronics,119671.5,3,-17950.72,Net Banking,Returned
+IND-2023-1193,20-06-2023,CUS-1016,Ritu Mehta,Kolkata,West Bengal,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1996,4,640,Debit Card,Shipped
+IND-2023-1194,18-12-2023,CUS-1005,Rohan Gupta,Kochi,Kerala,South,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,Cash on Delivery,Delivered
+IND-2023-1195,05-03-2023,CUS-1017,Deepak Chopra,Hyderabad,Telangana,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,8598,2,1440,UPI,Shipped
+IND-2023-1196,23-04-2023,CUS-1005,Rohan Gupta,Kolkata,West Bengal,East,Samsung Galaxy S23 5G,Mobiles & Accessories,185247.15,3,14287.61,Credit Card,Delivered
+IND-2023-1197,14-10-2023,CUS-1006,Sneha Mukherjee,Jaipur,Rajasthan,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,6878.4,2,150.3,UPI,Delivered
+IND-2023-1198,27-12-2023,CUS-1004,Ananya Iyer,Kolkata,West Bengal,East,Logitech Wireless Keyboard & Mouse,Electronics,5980,4,1400,Credit Card,Delivered
+IND-2023-1199,18-09-2023,CUS-1012,Kavita Rao,Patna,Bihar,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3237.3,3,510.22,UPI,Delivered
+IND-2023-1200,27-09-2023,CUS-1004,Ananya Iyer,Pune,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,12156.2,4,1720.15,UPI,Delivered
+IND-2023-1201,07-06-2023,CUS-1004,Ananya Iyer,Pune,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,52240.5,1,-7836.07,Credit Card,Returned
+IND-2023-1202,14-09-2023,CUS-1002,Priya Patel,Lucknow,Uttar Pradesh,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1785,4,463.75,Debit Card,Delivered
+IND-2023-1203,05-02-2023,CUS-1022,Tanvi Deshmukh,Chennai,Tamil Nadu,South,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3057.45,3,0,Cash on Delivery,Cancelled
+IND-2023-1204,09-12-2023,CUS-1002,Priya Patel,Ahmedabad,Gujarat,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,159996,4,19200,Credit Card,Delivered
+IND-2023-1205,28-01-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,HP Pavilion 15 Core i5 Laptop,Electronics,98982,2,3351.5,UPI,Delivered
+IND-2023-1206,18-09-2023,CUS-1016,Ritu Mehta,Chandigarh,Punjab,North,OnePlus 11R 5G (128GB),Mobiles & Accessories,37999.05,1,3300.04,Cash on Delivery,Delivered
+IND-2023-1207,09-06-2023,CUS-1022,Tanvi Deshmukh,Kochi,Kerala,South,Lavie Women Handbag,Fashion,1700.5,1,322.88,UPI,Delivered
+IND-2023-1208,28-12-2023,CUS-1001,Aarav Sharma,Jaipur,Rajasthan,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2551.5,3,417.38,UPI,Delivered
+IND-2023-1209,17-02-2023,CUS-1006,Sneha Mukherjee,Kochi,Kerala,South,Samsung Galaxy S23 5G,Mobiles & Accessories,129998,2,14400,Cash on Delivery,Processing
+IND-2023-1210,09-04-2023,CUS-1002,Priya Patel,Delhi,Delhi,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,2596,4,880,Net Banking,Delivered
+IND-2023-1211,01-09-2023,CUS-1020,Shweta Tiwari,Lucknow,Uttar Pradesh,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,13756.8,4,300.6,Debit Card,Delivered
+IND-2023-1212,07-09-2023,CUS-1011,Aditya Joshi,Kolkata,West Bengal,East,Spigen Armor Back Cover,Mobiles & Accessories,759.05,1,220.04,Cash on Delivery,Delivered
+IND-2023-1213,16-12-2023,CUS-1023,Gaurav Bansal,Delhi,Delhi,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1596.8,4,-239.52,UPI,Returned
+IND-2023-1214,16-05-2023,CUS-1022,Tanvi Deshmukh,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,129998,2,14400,Debit Card,Delivered
+IND-2023-1215,30-11-2023,CUS-1021,Arjun Reddy,Bhubaneswar,Odisha,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1338.75,3,347.81,Credit Card,Delivered
+IND-2023-1216,26-09-2023,CUS-1016,Ritu Mehta,Mumbai,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,104481,2,7475.75,Credit Card,Delivered
+IND-2023-1217,27-10-2023,CUS-1008,Pooja Nair,Chandigarh,Punjab,North,SanDisk 128GB Ultra Dual Drive,Electronics,1443.3,2,228.98,UPI,Processing
+IND-2023-1218,01-12-2023,CUS-1021,Arjun Reddy,Indore,Madhya Pradesh,West,Fastrack Analog Watch for Men,Fashion,2331,2,425.75,UPI,Delivered
+IND-2023-1219,18-01-2023,CUS-1024,Meera Nambiar,Bengaluru,Karnataka,South,Fastrack Analog Watch for Men,Fashion,1100.75,1,-165.11,Cash on Delivery,Returned
+IND-2023-1220,07-08-2023,CUS-1001,Aarav Sharma,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,155997.6,3,-23399.64,Credit Card,Returned
+IND-2023-1221,30-06-2023,CUS-1013,Amit Mishra,Pune,Maharashtra,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1785,4,463.75,Debit Card,Delivered
+IND-2023-1222,18-05-2023,CUS-1025,Siddharth Sen,Mumbai,Maharashtra,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3117.6,3,375.45,Debit Card,Delivered
+IND-2023-1223,14-09-2023,CUS-1025,Siddharth Sen,Indore,Madhya Pradesh,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3236.4,4,-749.7,Cash on Delivery,Shipped
+IND-2023-1224,27-03-2023,CUS-1002,Priya Patel,Jaipur,Rajasthan,North,Fastrack Analog Watch for Men,Fashion,3496.5,3,638.62,UPI,Delivered
+IND-2023-1225,09-06-2023,CUS-1017,Deepak Chopra,Chennai,Tamil Nadu,South,Allen Solly Casual Cotton Shirt,Fashion,3822.45,3,-573.37,Cash on Delivery,Returned
+IND-2023-1226,01-12-2023,CUS-1013,Amit Mishra,Delhi,Delhi,North,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1850,1,340,Debit Card,Shipped
+IND-2023-1227,30-12-2023,CUS-1024,Meera Nambiar,Bhubaneswar,Odisha,East,Sony Bravia 43-inch 4K LED TV,Electronics,33141.5,1,-286.38,Cash on Delivery,Delivered
+IND-2023-1228,28-03-2023,CUS-1002,Priya Patel,Jaipur,Rajasthan,North,Logitech Wireless Keyboard & Mouse,Electronics,2392,2,251.5,UPI,Delivered
+IND-2023-1229,03-01-2023,CUS-1023,Gaurav Bansal,Bengaluru,Karnataka,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,79998,2,9600,Cash on Delivery,Processing
+IND-2023-1230,23-04-2023,CUS-1021,Arjun Reddy,Kolkata,West Bengal,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3597,3,780,UPI,Delivered
+IND-2023-1231,15-10-2023,CUS-1002,Priya Patel,Hyderabad,Telangana,South,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1890,4,542.5,Credit Card,Shipped
+IND-2023-1232,24-03-2023,CUS-1007,Vikram Malhotra,Pune,Maharashtra,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2598,2,640,UPI,Delivered
+IND-2023-1233,05-11-2023,CUS-1005,Rohan Gupta,Patna,Bihar,East,Sony Bravia 43-inch 4K LED TV,Electronics,111121.5,3,7913.62,UPI,Delivered
+IND-2023-1234,23-07-2023,CUS-1025,Siddharth Sen,Delhi,Delhi,North,Samsung Galaxy S23 5G,Mobiles & Accessories,194997,3,21600,UPI,Shipped
+IND-2023-1235,06-01-2023,CUS-1016,Ritu Mehta,Delhi,Delhi,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4299,1,720,Credit Card,Delivered
+IND-2023-1236,05-06-2023,CUS-1014,Sunita Das,Chandigarh,Punjab,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,780,1,240,Credit Card,Delivered
+IND-2023-1237,14-11-2023,CUS-1004,Ananya Iyer,Kochi,Kerala,South,Peter England Formal Trousers,Fashion,959.2,1,110.15,UPI,Delivered
+IND-2023-1238,01-11-2023,CUS-1001,Aarav Sharma,Patna,Bihar,East,Logitech Wireless Keyboard & Mouse,Electronics,3812.25,3,545.44,UPI,Delivered
+IND-2023-1239,25-03-2023,CUS-1023,Gaurav Bansal,Indore,Madhya Pradesh,West,SanDisk 128GB Ultra Dual Drive,Electronics,1528.2,2,292.65,UPI,Delivered
+IND-2023-1240,25-04-2023,CUS-1010,Neha Singh,Jaipur,Rajasthan,North,Spigen Armor Back Cover,Mobiles & Accessories,1518.1,2,440.07,UPI,Delivered
+IND-2023-1241,28-01-2023,CUS-1007,Vikram Malhotra,Delhi,Delhi,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,39996.8,4,-13299.4,UPI,Delivered
+IND-2023-1242,08-12-2023,CUS-1025,Siddharth Sen,Pune,Maharashtra,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4299,1,720,Debit Card,Delivered
+IND-2023-1243,28-02-2023,CUS-1007,Vikram Malhotra,Mumbai,Maharashtra,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,6290,4,527.5,Cash on Delivery,Processing
+IND-2023-1244,27-01-2023,CUS-1011,Aditya Joshi,Pune,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,119997,3,14400,UPI,Delivered
+IND-2023-1245,16-02-2023,CUS-1005,Rohan Gupta,Delhi,Delhi,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,47496.2,4,-7674.85,Debit Card,Delivered
+IND-2023-1246,02-09-2023,CUS-1022,Tanvi Deshmukh,Patna,Bihar,East,Samsung Galaxy S23 5G,Mobiles & Accessories,155997.6,3,-7649.55,Credit Card,Delivered
+IND-2023-1247,24-09-2023,CUS-1016,Ritu Mehta,Chennai,Tamil Nadu,South,SanDisk 128GB Ultra Dual Drive,Electronics,2292.3,3,438.98,UPI,Delivered
+IND-2023-1248,05-06-2023,CUS-1014,Sunita Das,Kochi,Kerala,South,Fastrack Analog Watch for Men,Fashion,5180,4,-777,UPI,Returned
+IND-2023-1249,27-03-2023,CUS-1014,Sunita Das,Ahmedabad,Gujarat,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,70396.8,4,-3599.4,UPI,Delivered
+IND-2023-1250,15-12-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,616.55,1,195.66,Net Banking,Delivered
+IND-2023-1251,22-07-2023,CUS-1002,Priya Patel,Ahmedabad,Gujarat,West,Lavie Women Handbag,Fashion,1790,1,390,Credit Card,Shipped
+IND-2023-1252,22-06-2023,CUS-1008,Pooja Nair,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,207996.8,4,-10199.4,Credit Card,Delivered
+IND-2023-1253,01-05-2023,CUS-1008,Pooja Nair,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,220996.6,4,-449.55,Cash on Delivery,Delivered
+IND-2023-1254,18-08-2023,CUS-1001,Aarav Sharma,Ahmedabad,Gujarat,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1104.15,1,173.86,Debit Card,Delivered
+IND-2023-1255,15-07-2023,CUS-1021,Arjun Reddy,Chandigarh,Punjab,North,Puma Unisex Smashic Sneakers,Fashion,9196,4,-1379.4,Credit Card,Returned
+IND-2023-1256,22-04-2023,CUS-1003,Rahul Verma,Bengaluru,Karnataka,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1989,3,456.75,UPI,Delivered
+IND-2023-1257,02-01-2023,CUS-1002,Priya Patel,Bengaluru,Karnataka,South,Spigen Armor Back Cover,Mobiles & Accessories,2397,3,750,Credit Card,Delivered
+IND-2023-1258,05-10-2023,CUS-1002,Priya Patel,Bengaluru,Karnataka,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3507.3,3,667.72,Debit Card,Delivered
+IND-2023-1259,03-06-2023,CUS-1008,Pooja Nair,Ahmedabad,Gujarat,West,Spigen Armor Back Cover,Mobiles & Accessories,639.2,1,130.15,Credit Card,Delivered
+IND-2023-1260,02-02-2023,CUS-1007,Vikram Malhotra,Bengaluru,Karnataka,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3897,3,960,UPI,Delivered
+IND-2023-1261,09-09-2023,CUS-1020,Shweta Tiwari,Bengaluru,Karnataka,South,SanDisk 128GB Ultra Dual Drive,Electronics,849,1,210,UPI,Delivered
+IND-2023-1262,27-02-2023,CUS-1021,Arjun Reddy,Chennai,Tamil Nadu,South,Fastrack Analog Watch for Men,Fashion,1036,1,115.75,Cash on Delivery,Delivered
+IND-2023-1263,07-06-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Peter England Formal Trousers,Fashion,1199,1,290,UPI,Shipped
+IND-2023-1264,18-12-2023,CUS-1013,Amit Mishra,Kolkata,West Bengal,East,HP Pavilion 15 Core i5 Laptop,Electronics,43992,1,-6598.8,Credit Card,Returned
+IND-2023-1265,09-12-2023,CUS-1005,Rohan Gupta,Delhi,Delhi,North,Fastrack Analog Watch for Men,Fashion,2590,2,620,Cash on Delivery,Delivered
+IND-2023-1266,14-01-2023,CUS-1022,Tanvi Deshmukh,Chandigarh,Punjab,North,SanDisk 128GB Ultra Dual Drive,Electronics,721.65,1,114.49,Cash on Delivery,Delivered
+IND-2023-1267,10-12-2023,CUS-1003,Rahul Verma,Mumbai,Maharashtra,West,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3237.3,3,510.22,Credit Card,Delivered
+IND-2023-1268,14-03-2023,CUS-1022,Tanvi Deshmukh,Ahmedabad,Gujarat,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,3439.2,1,75.15,Credit Card,Delivered
+IND-2023-1269,25-04-2023,CUS-1014,Sunita Das,Jaipur,Rajasthan,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,12499,1,-1450,Cash on Delivery,Delivered
+IND-2023-1270,26-12-2023,CUS-1025,Siddharth Sen,Hyderabad,Telangana,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1701,2,278.25,UPI,Delivered
+IND-2023-1271,12-09-2023,CUS-1014,Sunita Das,Hyderabad,Telangana,South,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1849.65,3,586.99,Credit Card,Delivered
+IND-2023-1272,03-07-2023,CUS-1019,Manish Agarwal,Kolkata,West Bengal,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,3058.3,2,355.23,Cash on Delivery,Shipped
+IND-2023-1273,18-02-2023,CUS-1006,Sneha Mukherjee,Mumbai,Maharashtra,West,SanDisk 128GB Ultra Dual Drive,Electronics,764.1,1,-114.61,UPI,Returned
+IND-2023-1274,13-09-2023,CUS-1011,Aditya Joshi,Chennai,Tamil Nadu,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,63998.4,2,-2399.7,Credit Card,Delivered
+IND-2023-1275,19-12-2023,CUS-1008,Pooja Nair,Bengaluru,Karnataka,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2106,3,544.5,Credit Card,Delivered
+IND-2023-1276,29-12-2023,CUS-1003,Rahul Verma,Pune,Maharashtra,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,17196,4,2880,UPI,Shipped
+IND-2023-1277,31-07-2023,CUS-1024,Meera Nambiar,Pune,Maharashtra,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,3120,4,960,Cash on Delivery,Delivered
+IND-2023-1278,18-10-2023,CUS-1020,Shweta Tiwari,Bhubaneswar,Odisha,East,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,Cash on Delivery,Delivered
+IND-2023-1279,17-08-2023,CUS-1022,Tanvi Deshmukh,Chandigarh,Punjab,North,Allen Solly Casual Cotton Shirt,Fashion,3597.6,3,465.45,Debit Card,Shipped
+IND-2023-1280,18-10-2023,CUS-1016,Ritu Mehta,Chennai,Tamil Nadu,South,Allen Solly Casual Cotton Shirt,Fashion,1349.1,1,267.57,Credit Card,Delivered
+IND-2023-1281,08-05-2023,CUS-1014,Sunita Das,Ahmedabad,Gujarat,West,Puma Unisex Smashic Sneakers,Fashion,3908.3,2,-877.27,UPI,Delivered
+IND-2023-1282,17-11-2023,CUS-1025,Siddharth Sen,Indore,Madhya Pradesh,West,Peter England Formal Trousers,Fashion,1079.1,1,200.07,UPI,Delivered
+IND-2023-1283,28-05-2023,CUS-1023,Gaurav Bansal,Kochi,Kerala,South,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,37497,3,-4350,UPI,Processing
+IND-2023-1284,12-08-2023,CUS-1011,Aditya Joshi,Pune,Maharashtra,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,70396.8,4,-3599.4,UPI,Shipped
+IND-2023-1285,14-02-2023,CUS-1017,Deepak Chopra,Chandigarh,Punjab,North,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,2038.3,2,250.23,Cash on Delivery,Delivered
+IND-2023-1286,14-05-2023,CUS-1024,Meera Nambiar,Kolkata,West Bengal,East,HP Pavilion 15 Core i5 Laptop,Electronics,175968,4,0,Credit Card,Cancelled
+IND-2023-1287,18-02-2023,CUS-1013,Amit Mishra,Pune,Maharashtra,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4299,1,720,UPI,Delivered
+IND-2023-1288,14-01-2023,CUS-1021,Arjun Reddy,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,29997.6,3,-4499.64,Debit Card,Returned
+IND-2023-1289,14-02-2023,CUS-1012,Kavita Rao,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,55249.15,1,-112.39,UPI,Delivered
+IND-2023-1290,27-02-2023,CUS-1015,Karan Kapoor,Kolkata,West Bengal,East,Biba Women Printed Anarkali Kurta,Fashion,5397.3,3,1110.22,UPI,Delivered
+IND-2023-1291,18-05-2023,CUS-1001,Aarav Sharma,Patna,Bihar,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,2038.3,2,250.23,UPI,Delivered
+IND-2023-1292,06-12-2023,CUS-1010,Neha Singh,Pune,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,98982,2,0,Debit Card,Cancelled
+IND-2023-1293,08-06-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,24998,2,-2900,UPI,Delivered
+IND-2023-1294,08-11-2023,CUS-1023,Gaurav Bansal,Bengaluru,Karnataka,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,75998.1,2,6600.07,Cash on Delivery,Delivered
+IND-2023-1295,14-01-2023,CUS-1021,Arjun Reddy,Delhi,Delhi,North,OnePlus 11R 5G (128GB),Mobiles & Accessories,151996.2,4,13200.15,UPI,Delivered
+IND-2023-1296,10-05-2023,CUS-1023,Gaurav Bansal,Kochi,Kerala,South,Levi's Men Slim Fit Denim Jeans,Fashion,5997.6,3,825.45,Debit Card,Shipped
+IND-2023-1297,23-11-2023,CUS-1008,Pooja Nair,Lucknow,Uttar Pradesh,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,11249.1,1,-2387.43,Credit Card,Delivered
+IND-2023-1298,07-04-2023,CUS-1001,Aarav Sharma,Chennai,Tamil Nadu,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,5196,4,1280,Cash on Delivery,Shipped
+IND-2023-1299,23-10-2023,CUS-1025,Siddharth Sen,Chandigarh,Punjab,North,Sony Bravia 43-inch 4K LED TV,Electronics,124768,4,-6994,Debit Card,Delivered
+IND-2023-1300,29-07-2023,CUS-1017,Deepak Chopra,Mumbai,Maharashtra,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1896.2,4,565.15,Cash on Delivery,Delivered
+IND-2023-1301,22-08-2023,CUS-1010,Neha Singh,Lucknow,Uttar Pradesh,North,Levi's Men Slim Fit Denim Jeans,Fashion,9996,4,2600,UPI,Delivered
+IND-2023-1302,21-10-2023,CUS-1001,Aarav Sharma,Delhi,Delhi,North,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,3700,2,-555,UPI,Returned
+IND-2023-1303,01-08-2023,CUS-1025,Siddharth Sen,Hyderabad,Telangana,South,Spigen Armor Back Cover,Mobiles & Accessories,679.15,1,160.11,UPI,Processing
+IND-2023-1304,28-05-2023,CUS-1001,Aarav Sharma,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,31872.45,3,-8568.41,Cash on Delivery,Delivered
+IND-2023-1305,01-08-2023,CUS-1003,Rahul Verma,Jaipur,Rajasthan,North,Philips Air Fryer HD9200,Home & Kitchen,25996,4,3800,UPI,Delivered
+IND-2023-1306,22-02-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1480,1,62.5,UPI,Delivered
+IND-2023-1307,15-10-2023,CUS-1005,Rohan Gupta,Bhubaneswar,Odisha,East,Peter England Formal Trousers,Fashion,1199,1,290,Cash on Delivery,Delivered
+IND-2023-1308,14-06-2023,CUS-1002,Priya Patel,Chandigarh,Punjab,North,Levi's Men Slim Fit Denim Jeans,Fashion,8496.6,4,1475.45,UPI,Delivered
+IND-2023-1309,26-02-2023,CUS-1010,Neha Singh,Kolkata,West Bengal,East,Allen Solly Casual Cotton Shirt,Fashion,5396.4,4,1070.3,Credit Card,Delivered
+IND-2023-1310,14-03-2023,CUS-1016,Ritu Mehta,Indore,Madhya Pradesh,West,Philips Air Fryer HD9200,Home & Kitchen,10398.4,2,-49.7,Credit Card,Delivered
+IND-2023-1311,28-04-2023,CUS-1003,Rahul Verma,Ahmedabad,Gujarat,West,Allen Solly Casual Cotton Shirt,Fashion,3822.45,3,-573.37,UPI,Returned
+IND-2023-1312,09-05-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,3418.1,2,625.08,UPI,Delivered
+IND-2023-1313,10-05-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Allen Solly Casual Cotton Shirt,Fashion,4497,3,0,Cash on Delivery,Cancelled
+IND-2023-1314,18-11-2023,CUS-1005,Rohan Gupta,Patna,Bihar,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,998,2,320,Debit Card,Delivered
+IND-2023-1315,29-09-2023,CUS-1002,Priya Patel,Delhi,Delhi,North,Puma Unisex Smashic Sneakers,Fashion,2184.05,1,-266.21,Credit Card,Delivered
+IND-2023-1316,26-12-2023,CUS-1012,Kavita Rao,Bengaluru,Karnataka,South,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,19998.4,2,-6649.7,UPI,Delivered
+IND-2023-1317,02-12-2023,CUS-1002,Priya Patel,Chennai,Tamil Nadu,South,Fastrack Analog Watch for Men,Fashion,5180,4,1240,UPI,Processing
+IND-2023-1318,14-05-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Philips Air Fryer HD9200,Home & Kitchen,23396.4,4,1850.3,Debit Card,Delivered
+IND-2023-1319,10-09-2023,CUS-1009,Rajesh Kumar,Mumbai,Maharashtra,West,Lavie Women Handbag,Fashion,5370,3,1170,UPI,Delivered
+IND-2023-1320,27-11-2023,CUS-1023,Gaurav Bansal,Ahmedabad,Gujarat,West,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,5096.6,4,-764.49,UPI,Returned
+IND-2023-1321,23-01-2023,CUS-1021,Arjun Reddy,Pune,Maharashtra,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1298,2,-194.7,UPI,Returned
+IND-2023-1322,30-01-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,21597.6,3,-449.55,Debit Card,Delivered
+IND-2023-1323,02-08-2023,CUS-1001,Aarav Sharma,Bhubaneswar,Odisha,East,Philips Air Fryer HD9200,Home & Kitchen,12348.1,2,1412.57,Debit Card,Processing
+IND-2023-1324,19-12-2023,CUS-1022,Tanvi Deshmukh,Delhi,Delhi,North,Puma Unisex Smashic Sneakers,Fashion,6897,3,-540,Debit Card,Processing
+IND-2023-1325,31-03-2023,CUS-1020,Shweta Tiwari,Bhubaneswar,Odisha,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1799,1,380,UPI,Delivered
+IND-2023-1326,03-03-2023,CUS-1005,Rohan Gupta,Bengaluru,Karnataka,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1596.8,4,340.6,Debit Card,Delivered
+IND-2023-1327,11-04-2023,CUS-1015,Karan Kapoor,Patna,Bihar,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,616.55,1,-92.48,Debit Card,Returned
+IND-2023-1328,23-08-2023,CUS-1024,Meera Nambiar,Kolkata,West Bengal,East,Canon EOS 1500D DSLR Camera,Electronics,41990,1,-6298.5,UPI,Returned
+IND-2023-1329,29-09-2023,CUS-1013,Amit Mishra,Indore,Madhya Pradesh,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,17998,2,2400,UPI,Delivered
+IND-2023-1330,12-02-2023,CUS-1004,Ananya Iyer,Ahmedabad,Gujarat,West,HP Pavilion 15 Core i5 Laptop,Electronics,52240.5,1,3737.88,Cash on Delivery,Delivered
+IND-2023-1331,01-02-2023,CUS-1018,Divya Pillai,Patna,Bihar,East,SanDisk 128GB Ultra Dual Drive,Electronics,2547,3,630,Net Banking,Delivered
+IND-2023-1332,07-06-2023,CUS-1012,Kavita Rao,Lucknow,Uttar Pradesh,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,649,1,220,Debit Card,Delivered
+IND-2023-1333,13-11-2023,CUS-1004,Ananya Iyer,Hyderabad,Telangana,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2208.3,2,0,UPI,Cancelled
+IND-2023-1334,04-02-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Logitech Wireless Keyboard & Mouse,Electronics,1196,1,125.75,UPI,Delivered
+IND-2023-1335,22-10-2023,CUS-1018,Divya Pillai,Ahmedabad,Gujarat,West,Canon EOS 1500D DSLR Camera,Electronics,41990,1,4500,Credit Card,Shipped
+IND-2023-1336,09-09-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Biba Women Printed Anarkali Kurta,Fashion,5697.15,3,1335.11,UPI,Processing
+IND-2023-1337,03-05-2023,CUS-1022,Tanvi Deshmukh,Ahmedabad,Gujarat,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,159996,4,19200,Cash on Delivery,Delivered
+IND-2023-1338,02-02-2023,CUS-1022,Tanvi Deshmukh,Patna,Bihar,East,Canon EOS 1500D DSLR Camera,Electronics,119671.5,3,8776.12,Net Banking,Delivered
+IND-2023-1339,08-05-2023,CUS-1010,Neha Singh,Lucknow,Uttar Pradesh,North,Sony Bravia 43-inch 4K LED TV,Electronics,116970,3,12300,UPI,Processing
+IND-2023-1340,21-07-2023,CUS-1011,Aditya Joshi,Mumbai,Maharashtra,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1996,4,640,UPI,Delivered
+IND-2023-1341,12-01-2023,CUS-1006,Sneha Mukherjee,Kochi,Kerala,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,56097.45,3,-224.66,UPI,Delivered
+IND-2023-1342,16-06-2023,CUS-1021,Arjun Reddy,Hyderabad,Telangana,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,756,1,68.25,Net Banking,Shipped
+IND-2023-1343,12-10-2023,CUS-1003,Rahul Verma,Indore,Madhya Pradesh,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,3213,4,414.75,Debit Card,Delivered
+IND-2023-1344,17-02-2023,CUS-1014,Sunita Das,Kolkata,West Bengal,East,Spigen Armor Back Cover,Mobiles & Accessories,719.1,1,190.07,Credit Card,Shipped
+IND-2023-1345,05-06-2023,CUS-1005,Rohan Gupta,Chennai,Tamil Nadu,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1169.1,1,222.57,UPI,Delivered
+IND-2023-1346,17-10-2023,CUS-1001,Aarav Sharma,Kolkata,West Bengal,East,Peter England Formal Trousers,Fashion,4076.6,4,620.45,UPI,Delivered
+IND-2023-1347,30-12-2023,CUS-1008,Pooja Nair,Chandigarh,Punjab,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,17196,4,2880,Credit Card,Delivered
+IND-2023-1348,14-07-2023,CUS-1004,Ananya Iyer,Lucknow,Uttar Pradesh,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,764.15,1,-221.14,UPI,Delivered
+IND-2023-1349,29-12-2023,CUS-1014,Sunita Das,Bhubaneswar,Odisha,East,Milton Thermosteel Bottle 1000ml,Home & Kitchen,756,1,68.25,Cash on Delivery,Delivered
+IND-2023-1350,27-11-2023,CUS-1001,Aarav Sharma,Ahmedabad,Gujarat,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2268,3,204.75,UPI,Delivered
+IND-2023-1351,12-10-2023,CUS-1018,Divya Pillai,Mumbai,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6398,2,1100,UPI,Delivered
+IND-2023-1352,21-11-2023,CUS-1002,Priya Patel,Chandigarh,Punjab,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,26997,3,3600,Credit Card,Delivered
+IND-2023-1353,06-02-2023,CUS-1007,Vikram Malhotra,Chandigarh,Punjab,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,474.05,1,141.29,UPI,Delivered
+IND-2023-1354,08-11-2023,CUS-1004,Ananya Iyer,Kolkata,West Bengal,East,Canon EOS 1500D DSLR Camera,Electronics,33592,1,-1798.5,UPI,Delivered
+IND-2023-1355,01-12-2023,CUS-1011,Aditya Joshi,Ahmedabad,Gujarat,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,998,2,320,Debit Card,Delivered
+IND-2023-1356,06-12-2023,CUS-1019,Manish Agarwal,Delhi,Delhi,North,Puma Unisex Smashic Sneakers,Fashion,4368.1,2,-532.42,Net Banking,Shipped
+IND-2023-1357,19-06-2023,CUS-1007,Vikram Malhotra,Bengaluru,Karnataka,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,499,1,160,Debit Card,Delivered
+IND-2023-1358,15-01-2023,CUS-1005,Rohan Gupta,Indore,Madhya Pradesh,West,Canon EOS 1500D DSLR Camera,Electronics,119671.5,3,8776.12,UPI,Delivered
+IND-2023-1359,28-03-2023,CUS-1017,Deepak Chopra,Kolkata,West Bengal,East,Redmi Note 12 Pro 5G,Mobiles & Accessories,18699.15,1,-74.89,UPI,Processing
+IND-2023-1360,02-09-2023,CUS-1017,Deepak Chopra,Delhi,Delhi,North,Spigen Armor Back Cover,Mobiles & Accessories,1917.6,3,390.45,UPI,Delivered
+IND-2023-1361,25-05-2023,CUS-1014,Sunita Das,Mumbai,Maharashtra,West,Fastrack Analog Watch for Men,Fashion,2590,2,620,Credit Card,Delivered
+IND-2023-1362,08-09-2023,CUS-1017,Deepak Chopra,Bhubaneswar,Odisha,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,28796.8,4,-599.4,UPI,Delivered
+IND-2023-1363,30-08-2023,CUS-1004,Ananya Iyer,Lucknow,Uttar Pradesh,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,12499,1,-1450,UPI,Delivered
+IND-2023-1364,21-11-2023,CUS-1022,Tanvi Deshmukh,Lucknow,Uttar Pradesh,North,Spigen Armor Back Cover,Mobiles & Accessories,2397,3,750,Credit Card,Delivered
+IND-2023-1365,19-08-2023,CUS-1009,Rajesh Kumar,Jaipur,Rajasthan,North,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,5196,4,1280,Credit Card,Delivered
+IND-2023-1366,27-06-2023,CUS-1011,Aditya Joshi,Jaipur,Rajasthan,North,Fastrack Analog Watch for Men,Fashion,4403,4,657.25,UPI,Delivered
+IND-2023-1367,30-08-2023,CUS-1019,Manish Agarwal,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,103998.4,2,-5099.7,Credit Card,Delivered
+IND-2023-1368,01-11-2023,CUS-1025,Siddharth Sen,Lucknow,Uttar Pradesh,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,24998,2,0,Credit Card,Cancelled
+IND-2023-1369,06-04-2023,CUS-1003,Rahul Verma,Hyderabad,Telangana,South,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,11249.1,1,-2387.43,Credit Card,Delivered
+IND-2023-1370,20-06-2023,CUS-1023,Gaurav Bansal,Indore,Madhya Pradesh,West,Levi's Men Slim Fit Denim Jeans,Fashion,7996.8,4,1100.6,Credit Card,Delivered
+IND-2023-1371,13-02-2023,CUS-1025,Siddharth Sen,Indore,Madhya Pradesh,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1947,3,660,UPI,Delivered
+IND-2023-1372,05-03-2023,CUS-1024,Meera Nambiar,Patna,Bihar,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,79998,2,9600,Cash on Delivery,Shipped
+IND-2023-1373,14-02-2023,CUS-1020,Shweta Tiwari,Pune,Maharashtra,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,5550,3,1020,Cash on Delivery,Delivered
+IND-2023-1374,30-01-2023,CUS-1011,Aditya Joshi,Pune,Maharashtra,West,Allen Solly Casual Cotton Shirt,Fashion,2548.3,2,422.73,UPI,Delivered
+IND-2023-1375,03-02-2023,CUS-1006,Sneha Mukherjee,Bengaluru,Karnataka,South,Spigen Armor Back Cover,Mobiles & Accessories,719.1,1,190.07,UPI,Delivered
+IND-2023-1376,07-03-2023,CUS-1014,Sunita Das,Kolkata,West Bengal,East,Allen Solly Casual Cotton Shirt,Fashion,5996,4,1520,Debit Card,Shipped
+IND-2023-1377,22-12-2023,CUS-1018,Divya Pillai,Kolkata,West Bengal,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,67998.3,2,600.23,UPI,Delivered
+IND-2023-1378,01-11-2023,CUS-1012,Kavita Rao,Lucknow,Uttar Pradesh,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1606.5,2,207.38,Debit Card,Delivered
+IND-2023-1379,08-10-2023,CUS-1007,Vikram Malhotra,Hyderabad,Telangana,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1996,4,640,UPI,Delivered
+IND-2023-1380,20-05-2023,CUS-1005,Rohan Gupta,Kolkata,West Bengal,East,Redmi Note 12 Pro 5G,Mobiles & Accessories,21999,1,2400,Cash on Delivery,Delivered
+IND-2023-1381,26-03-2023,CUS-1024,Meera Nambiar,Hyderabad,Telangana,South,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,2427.3,3,-562.27,UPI,Delivered
+IND-2023-1382,19-02-2023,CUS-1016,Ritu Mehta,Patna,Bihar,East,Logitech Wireless Keyboard & Mouse,Electronics,1345.5,1,237.88,Cash on Delivery,Delivered
+IND-2023-1383,09-12-2023,CUS-1011,Aditya Joshi,Chennai,Tamil Nadu,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3312.45,3,521.59,Credit Card,Delivered
+IND-2023-1384,07-04-2023,CUS-1019,Manish Agarwal,Mumbai,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,79781,2,5850.75,Credit Card,Delivered
+IND-2023-1385,28-10-2023,CUS-1009,Rajesh Kumar,Chandigarh,Punjab,North,Logitech Wireless Keyboard & Mouse,Electronics,5382,4,-807.3,UPI,Returned
+IND-2023-1386,26-12-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,17196,4,2880,UPI,Delivered
+IND-2023-1387,10-04-2023,CUS-1019,Manish Agarwal,Mumbai,Maharashtra,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,11249.1,1,-2387.43,Cash on Delivery,Processing
+IND-2023-1388,19-02-2023,CUS-1003,Rahul Verma,Chennai,Tamil Nadu,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,18699.15,1,-74.89,Net Banking,Delivered
+IND-2023-1389,25-08-2023,CUS-1018,Divya Pillai,Kolkata,West Bengal,East,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3312.45,3,521.59,UPI,Delivered
+IND-2023-1390,10-04-2023,CUS-1018,Divya Pillai,Pune,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,151996.2,4,13200.15,Cash on Delivery,Delivered
+IND-2023-1391,23-07-2023,CUS-1014,Sunita Das,Kolkata,West Bengal,East,Canon EOS 1500D DSLR Camera,Electronics,142766,4,-895.5,Net Banking,Delivered
+IND-2023-1392,09-04-2023,CUS-1012,Kavita Rao,Kolkata,West Bengal,East,Biba Women Printed Anarkali Kurta,Fashion,6796.6,4,1180.45,Cash on Delivery,Delivered
+IND-2023-1393,02-01-2023,CUS-1016,Ritu Mehta,Pune,Maharashtra,West,Levi's Men Slim Fit Denim Jeans,Fashion,6372.45,3,1106.59,UPI,Delivered
+IND-2023-1394,25-01-2023,CUS-1001,Aarav Sharma,Bhubaneswar,Odisha,East,Allen Solly Casual Cotton Shirt,Fashion,4272.15,3,971.36,Credit Card,Delivered
+IND-2023-1395,15-09-2023,CUS-1021,Arjun Reddy,Lucknow,Uttar Pradesh,North,Samsung Galaxy S23 5G,Mobiles & Accessories,259996,4,28800,Credit Card,Delivered
+IND-2023-1396,20-04-2023,CUS-1002,Priya Patel,Lucknow,Uttar Pradesh,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,12252.15,3,1676.36,Credit Card,Processing
+IND-2023-1397,18-06-2023,CUS-1014,Sunita Das,Indore,Madhya Pradesh,West,Peter England Formal Trousers,Fashion,3237.3,3,600.22,UPI,Delivered
+IND-2023-1398,26-02-2023,CUS-1020,Shweta Tiwari,Patna,Bihar,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,5696.2,4,1215.15,Cash on Delivery,Delivered
+IND-2023-1399,31-08-2023,CUS-1006,Sneha Mukherjee,Chandigarh,Punjab,North,SanDisk 128GB Ultra Dual Drive,Electronics,2547,3,630,Cash on Delivery,Delivered
+IND-2023-1400,19-05-2023,CUS-1022,Tanvi Deshmukh,Chandigarh,Punjab,North,Puma Unisex Smashic Sneakers,Fashion,5517.6,3,-1574.55,Debit Card,Processing
+IND-2023-1401,25-03-2023,CUS-1022,Tanvi Deshmukh,Bhubaneswar,Odisha,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,1139.05,1,215.04,Credit Card,Delivered
+IND-2023-1402,19-06-2023,CUS-1022,Tanvi Deshmukh,Bhubaneswar,Odisha,East,Redmi Note 12 Pro 5G,Mobiles & Accessories,41798.1,2,3150.07,Cash on Delivery,Delivered
+IND-2023-1403,04-08-2023,CUS-1004,Ananya Iyer,Patna,Bihar,East,Fastrack Analog Watch for Men,Fashion,5180,4,1240,Cash on Delivery,Delivered
+IND-2023-1404,29-01-2023,CUS-1013,Amit Mishra,Bengaluru,Karnataka,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1299,1,320,Net Banking,Delivered
+IND-2023-1405,17-10-2023,CUS-1019,Manish Agarwal,Jaipur,Rajasthan,North,Fastrack Analog Watch for Men,Fashion,4403,4,-660.45,Net Banking,Returned
+IND-2023-1406,21-06-2023,CUS-1015,Karan Kapoor,Kolkata,West Bengal,East,HP Pavilion 15 Core i5 Laptop,Electronics,164970,3,17400,UPI,Delivered
+IND-2023-1407,19-07-2023,CUS-1025,Siddharth Sen,Kolkata,West Bengal,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,472.5,1,135.62,UPI,Delivered
+IND-2023-1408,01-06-2023,CUS-1020,Shweta Tiwari,Mumbai,Maharashtra,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,70396.8,4,-3599.4,UPI,Delivered
+IND-2023-1409,08-07-2023,CUS-1010,Neha Singh,Kolkata,West Bengal,East,SanDisk 128GB Ultra Dual Drive,Electronics,1698,2,420,UPI,Delivered
+IND-2023-1410,19-12-2023,CUS-1008,Pooja Nair,Jaipur,Rajasthan,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,499,1,160,Net Banking,Processing
+IND-2023-1411,14-08-2023,CUS-1024,Meera Nambiar,Chennai,Tamil Nadu,South,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,2158.2,2,340.15,Credit Card,Shipped
+IND-2023-1412,10-12-2023,CUS-1015,Karan Kapoor,Mumbai,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,143996.4,4,0,Credit Card,Cancelled
+IND-2023-1413,01-06-2023,CUS-1020,Shweta Tiwari,Delhi,Delhi,North,Puma Unisex Smashic Sneakers,Fashion,9196,4,-720,UPI,Delivered
+IND-2023-1414,17-07-2023,CUS-1006,Sneha Mukherjee,Mumbai,Maharashtra,West,Biba Women Printed Anarkali Kurta,Fashion,6396.8,4,880.6,UPI,Delivered
+IND-2023-1415,16-12-2023,CUS-1018,Divya Pillai,Delhi,Delhi,North,Lavie Women Handbag,Fashion,3222,2,511.5,UPI,Delivered
+IND-2023-1416,24-05-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,95997.6,3,-3599.55,Credit Card,Delivered
+IND-2023-1417,09-03-2023,CUS-1002,Priya Patel,Mumbai,Maharashtra,West,SanDisk 128GB Ultra Dual Drive,Electronics,3396,4,840,UPI,Processing
+IND-2023-1418,26-10-2023,CUS-1002,Priya Patel,Lucknow,Uttar Pradesh,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,649,1,220,UPI,Delivered
+IND-2023-1419,25-11-2023,CUS-1001,Aarav Sharma,Bengaluru,Karnataka,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,6836.2,4,1250.15,UPI,Delivered
+IND-2023-1420,11-11-2023,CUS-1009,Rajesh Kumar,Bengaluru,Karnataka,South,Spigen Armor Back Cover,Mobiles & Accessories,2157.3,3,570.23,Net Banking,Delivered
+IND-2023-1421,10-06-2023,CUS-1014,Sunita Das,Bhubaneswar,Odisha,East,Milton Thermosteel Bottle 1000ml,Home & Kitchen,897.75,1,174.56,Cash on Delivery,Delivered
+IND-2023-1422,17-01-2023,CUS-1020,Shweta Tiwari,Delhi,Delhi,North,Puma Unisex Smashic Sneakers,Fashion,2299,1,-180,Credit Card,Delivered
+IND-2023-1423,09-10-2023,CUS-1001,Aarav Sharma,Bhubaneswar,Odisha,East,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1039.2,1,125.15,Credit Card,Delivered
+IND-2023-1424,09-11-2023,CUS-1023,Gaurav Bansal,Bhubaneswar,Odisha,East,Spigen Armor Back Cover,Mobiles & Accessories,2277.15,3,660.11,Debit Card,Processing
+IND-2023-1425,22-10-2023,CUS-1023,Gaurav Bansal,Jaipur,Rajasthan,North,Peter England Formal Trousers,Fashion,2158.2,2,400.15,UPI,Delivered
+IND-2023-1426,11-04-2023,CUS-1013,Amit Mishra,Chandigarh,Punjab,North,Spigen Armor Back Cover,Mobiles & Accessories,3196,4,1000,Cash on Delivery,Delivered
+IND-2023-1427,07-03-2023,CUS-1019,Manish Agarwal,Bengaluru,Karnataka,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1480,1,62.5,Cash on Delivery,Delivered
+IND-2023-1428,18-03-2023,CUS-1024,Meera Nambiar,Bhubaneswar,Odisha,East,Philips Air Fryer HD9200,Home & Kitchen,25996,4,3800,UPI,Delivered
+IND-2023-1429,20-02-2023,CUS-1012,Kavita Rao,Hyderabad,Telangana,South,Puma Unisex Smashic Sneakers,Fashion,4138.2,2,-704.85,Cash on Delivery,Delivered
+IND-2023-1430,10-07-2023,CUS-1020,Shweta Tiwari,Chandigarh,Punjab,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,87996,4,9600,UPI,Delivered
+IND-2023-1431,18-10-2023,CUS-1002,Priya Patel,Chandigarh,Punjab,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,7677.6,3,210.45,UPI,Delivered
+IND-2023-1432,14-03-2023,CUS-1010,Neha Singh,Lucknow,Uttar Pradesh,North,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1709.05,1,312.54,Cash on Delivery,Delivered
+IND-2023-1433,01-12-2023,CUS-1016,Ritu Mehta,Delhi,Delhi,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,70396.8,4,-3599.4,Cash on Delivery,Delivered
+IND-2023-1434,27-10-2023,CUS-1015,Karan Kapoor,Pune,Maharashtra,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,9999.2,1,-3324.85,Debit Card,Delivered
+IND-2023-1435,30-12-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Sony Bravia 43-inch 4K LED TV,Electronics,124768,4,-6994,Cash on Delivery,Delivered
+IND-2023-1436,03-05-2023,CUS-1008,Pooja Nair,Kolkata,West Bengal,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,25647.15,3,2587.61,Debit Card,Delivered
+IND-2023-1437,29-11-2023,CUS-1020,Shweta Tiwari,Bengaluru,Karnataka,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1890,2,420,UPI,Shipped
+IND-2023-1438,06-06-2023,CUS-1022,Tanvi Deshmukh,Delhi,Delhi,North,Canon EOS 1500D DSLR Camera,Electronics,151164,4,5403,Debit Card,Delivered
+IND-2023-1439,15-03-2023,CUS-1020,Shweta Tiwari,Delhi,Delhi,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,764.15,1,-221.14,UPI,Delivered
+IND-2023-1440,08-07-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,4047.3,3,742.72,UPI,Delivered
+IND-2023-1441,29-12-2023,CUS-1020,Shweta Tiwari,Lucknow,Uttar Pradesh,North,HP Pavilion 15 Core i5 Laptop,Electronics,156721.5,3,11213.62,UPI,Delivered
+IND-2023-1442,21-09-2023,CUS-1001,Aarav Sharma,Pune,Maharashtra,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,8549.05,1,862.54,UPI,Processing
+IND-2023-1443,20-06-2023,CUS-1004,Ananya Iyer,Delhi,Delhi,North,Philips Air Fryer HD9200,Home & Kitchen,6174.05,1,-926.11,Credit Card,Returned
+IND-2023-1444,25-04-2023,CUS-1023,Gaurav Bansal,Hyderabad,Telangana,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1347.3,3,367.73,UPI,Shipped
+IND-2023-1445,24-05-2023,CUS-1023,Gaurav Bansal,Pune,Maharashtra,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1795.5,2,349.12,Credit Card,Delivered
+IND-2023-1446,18-09-2023,CUS-1010,Neha Singh,Delhi,Delhi,North,Sony Bravia 43-inch 4K LED TV,Electronics,31192,1,-1748.5,Credit Card,Delivered
+IND-2023-1447,20-07-2023,CUS-1020,Shweta Tiwari,Chandigarh,Punjab,North,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,7030,4,1082.5,Credit Card,Processing
+IND-2023-1448,12-05-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Spigen Armor Back Cover,Mobiles & Accessories,2556.8,4,520.6,UPI,Delivered
+IND-2023-1449,24-04-2023,CUS-1019,Manish Agarwal,Chandigarh,Punjab,North,Lavie Women Handbag,Fashion,4833,3,767.25,UPI,Delivered
+IND-2023-1450,18-12-2023,CUS-1016,Ritu Mehta,Hyderabad,Telangana,South,Fastrack Analog Watch for Men,Fashion,1230.25,1,-184.54,Debit Card,Returned
+IND-2023-1451,13-10-2023,CUS-1001,Aarav Sharma,Hyderabad,Telangana,South,Puma Unisex Smashic Sneakers,Fashion,6897,3,-540,UPI,Delivered
+IND-2023-1452,16-12-2023,CUS-1014,Sunita Das,Jaipur,Rajasthan,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,809.1,1,-187.43,Credit Card,Delivered
+IND-2023-1453,17-06-2023,CUS-1022,Tanvi Deshmukh,Hyderabad,Telangana,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2468.1,2,542.58,UPI,Delivered
+IND-2023-1454,08-04-2023,CUS-1012,Kavita Rao,Bhubaneswar,Odisha,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1347.3,3,367.73,Net Banking,Delivered
+IND-2023-1455,23-11-2023,CUS-1012,Kavita Rao,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,61749.05,1,4762.54,Cash on Delivery,Delivered
+IND-2023-1456,12-04-2023,CUS-1019,Manish Agarwal,Kolkata,West Bengal,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,499,1,160,UPI,Delivered
+IND-2023-1457,16-09-2023,CUS-1013,Amit Mishra,Lucknow,Uttar Pradesh,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,39598.2,2,1500.15,Credit Card,Shipped
+IND-2023-1458,07-03-2023,CUS-1007,Vikram Malhotra,Jaipur,Rajasthan,North,Lavie Women Handbag,Fashion,3580,2,780,UPI,Delivered
+IND-2023-1459,14-08-2023,CUS-1008,Pooja Nair,Mumbai,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,185247.15,3,14287.61,Cash on Delivery,Processing
+IND-2023-1460,17-09-2023,CUS-1008,Pooja Nair,Bhubaneswar,Odisha,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,1438.4,2,-509.7,Credit Card,Shipped
+IND-2023-1461,21-11-2023,CUS-1013,Amit Mishra,Bhubaneswar,Odisha,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1654.95,3,440.96,Credit Card,Delivered
+IND-2023-1462,12-01-2023,CUS-1004,Ananya Iyer,Pune,Maharashtra,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3897,3,-584.55,UPI,Returned
+IND-2023-1463,20-10-2023,CUS-1015,Karan Kapoor,Delhi,Delhi,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,8598,2,1440,UPI,Delivered
+IND-2023-1464,25-05-2023,CUS-1012,Kavita Rao,Lucknow,Uttar Pradesh,North,HP Pavilion 15 Core i5 Laptop,Electronics,54990,1,5800,Credit Card,Delivered
+IND-2023-1465,14-06-2023,CUS-1001,Aarav Sharma,Hyderabad,Telangana,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2208.3,2,347.73,UPI,Delivered
+IND-2023-1466,27-03-2023,CUS-1024,Meera Nambiar,Indore,Madhya Pradesh,West,Biba Women Printed Anarkali Kurta,Fashion,1899.05,1,445.04,Cash on Delivery,Delivered
+IND-2023-1467,01-01-2023,CUS-1014,Sunita Das,Ahmedabad,Gujarat,West,Puma Unisex Smashic Sneakers,Fashion,1954.15,1,-438.64,Net Banking,Shipped
+IND-2023-1468,12-01-2023,CUS-1004,Ananya Iyer,Pune,Maharashtra,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1890,2,420,Cash on Delivery,Delivered
+IND-2023-1469,30-11-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,2100,4,700,Cash on Delivery,Delivered
+IND-2023-1470,27-05-2023,CUS-1013,Amit Mishra,Chandigarh,Punjab,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,24998,2,-2900,UPI,Delivered
+IND-2023-1471,09-09-2023,CUS-1024,Meera Nambiar,Indore,Madhya Pradesh,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,741,1,210.75,Credit Card,Delivered
+IND-2023-1472,03-01-2023,CUS-1023,Gaurav Bansal,Hyderabad,Telangana,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,159996,4,-23999.4,Credit Card,Returned
+IND-2023-1473,14-01-2023,CUS-1019,Manish Agarwal,Jaipur,Rajasthan,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4084.05,1,558.79,UPI,Delivered
+IND-2023-1474,01-03-2023,CUS-1015,Karan Kapoor,Kolkata,West Bengal,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,2697,3,-360,UPI,Delivered
+IND-2023-1475,15-08-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,Fastrack Analog Watch for Men,Fashion,4921,4,1045.75,Credit Card,Shipped
+IND-2023-1476,27-10-2023,CUS-1015,Karan Kapoor,Delhi,Delhi,North,HP Pavilion 15 Core i5 Laptop,Electronics,164970,3,17400,UPI,Delivered
+IND-2023-1477,06-05-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,SanDisk 128GB Ultra Dual Drive,Electronics,806.55,1,178.16,UPI,Processing
+IND-2023-1478,03-04-2023,CUS-1004,Ananya Iyer,Ahmedabad,Gujarat,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,5550,3,1020,Net Banking,Delivered
+IND-2023-1479,25-10-2023,CUS-1005,Rohan Gupta,Indore,Madhya Pradesh,West,HP Pavilion 15 Core i5 Laptop,Electronics,54990,1,5800,Cash on Delivery,Delivered
+IND-2023-1480,14-06-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,Philips Air Fryer HD9200,Home & Kitchen,17547.3,3,1387.72,UPI,Delivered
+IND-2023-1481,24-01-2023,CUS-1025,Siddharth Sen,Pune,Maharashtra,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2078.4,2,250.3,UPI,Shipped
+IND-2023-1482,01-01-2023,CUS-1014,Sunita Das,Bengaluru,Karnataka,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,15476.4,4,1590.3,UPI,Delivered
+IND-2023-1483,18-12-2023,CUS-1008,Pooja Nair,Lucknow,Uttar Pradesh,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,43998,2,-6599.7,Cash on Delivery,Returned
+IND-2023-1484,05-10-2023,CUS-1025,Siddharth Sen,Ahmedabad,Gujarat,West,SanDisk 128GB Ultra Dual Drive,Electronics,2547,3,630,Debit Card,Delivered
+IND-2023-1485,28-04-2023,CUS-1002,Priya Patel,Mumbai,Maharashtra,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,159996,4,19200,Cash on Delivery,Delivered
+IND-2023-1486,17-06-2023,CUS-1024,Meera Nambiar,Bengaluru,Karnataka,South,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,899,1,-120,UPI,Delivered
+IND-2023-1487,04-08-2023,CUS-1013,Amit Mishra,Bhubaneswar,Odisha,East,Logitech Wireless Keyboard & Mouse,Electronics,2541.5,2,363.62,Credit Card,Delivered
+IND-2023-1488,18-04-2023,CUS-1019,Manish Agarwal,Lucknow,Uttar Pradesh,North,Canon EOS 1500D DSLR Camera,Electronics,33592,1,-5038.8,Credit Card,Returned
+IND-2023-1489,16-01-2023,CUS-1004,Ananya Iyer,Indore,Madhya Pradesh,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,17196,4,2880,Net Banking,Delivered
+IND-2023-1490,15-05-2023,CUS-1017,Deepak Chopra,Kolkata,West Bengal,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,2562.15,3,-461.14,Credit Card,Delivered
+IND-2023-1491,25-06-2023,CUS-1004,Ananya Iyer,Jaipur,Rajasthan,North,Logitech Wireless Keyboard & Mouse,Electronics,4784,4,503,Debit Card,Delivered
+IND-2023-1492,07-10-2023,CUS-1010,Neha Singh,Ahmedabad,Gujarat,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1947,3,660,Credit Card,Delivered
+IND-2023-1493,03-06-2023,CUS-1021,Arjun Reddy,Bengaluru,Karnataka,South,Logitech Wireless Keyboard & Mouse,Electronics,1270.75,1,181.81,Debit Card,Delivered
+IND-2023-1494,28-04-2023,CUS-1015,Karan Kapoor,Bengaluru,Karnataka,South,Prestige Iris 750W Mixer Grinder,Home & Kitchen,12796,4,2200,Credit Card,Delivered
+IND-2023-1495,21-04-2023,CUS-1007,Vikram Malhotra,Kolkata,West Bengal,East,Sony Bravia 43-inch 4K LED TV,Electronics,99424.5,3,-859.12,Cash on Delivery,Shipped
+IND-2023-1496,25-12-2023,CUS-1003,Rahul Verma,Ahmedabad,Gujarat,West,Milton Thermosteel Bottle 1000ml,Home & Kitchen,803.25,1,-120.49,Cash on Delivery,Returned
+IND-2023-1497,30-12-2023,CUS-1007,Vikram Malhotra,Jaipur,Rajasthan,North,Canon EOS 1500D DSLR Camera,Electronics,113373,3,4052.25,Debit Card,Delivered
+IND-2023-1498,10-01-2023,CUS-1010,Neha Singh,Patna,Bihar,East,Spigen Armor Back Cover,Mobiles & Accessories,2397,3,750,UPI,Delivered
+IND-2023-1499,12-02-2023,CUS-1022,Tanvi Deshmukh,Ahmedabad,Gujarat,West,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5397,3,0,Credit Card,Cancelled
+IND-2023-1500,11-03-2023,CUS-1017,Deepak Chopra,Bhubaneswar,Odisha,East,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1039.2,1,125.15,Debit Card,Shipped
+IND-2023-1501,16-03-2023,CUS-1016,Ritu Mehta,Bengaluru,Karnataka,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2998,2,720,Credit Card,Delivered
+IND-2023-1502,23-03-2023,CUS-1010,Neha Singh,Bengaluru,Karnataka,South,Levi's Men Slim Fit Denim Jeans,Fashion,6747.3,3,0,UPI,Cancelled
+IND-2023-1503,25-06-2023,CUS-1024,Meera Nambiar,Ahmedabad,Gujarat,West,Fastrack Analog Watch for Men,Fashion,2072,2,0,Debit Card,Cancelled
+IND-2023-1504,07-09-2023,CUS-1007,Vikram Malhotra,Ahmedabad,Gujarat,West,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,4497,3,1080,Credit Card,Delivered
+IND-2023-1505,26-06-2023,CUS-1014,Sunita Das,Patna,Bihar,East,Samsung Galaxy S23 5G,Mobiles & Accessories,194997,3,21600,UPI,Delivered
+IND-2023-1506,18-07-2023,CUS-1006,Sneha Mukherjee,Indore,Madhya Pradesh,West,Lavie Women Handbag,Fashion,3043,2,377.25,UPI,Delivered
+IND-2023-1507,23-06-2023,CUS-1021,Arjun Reddy,Patna,Bihar,East,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,4717.5,3,395.62,Cash on Delivery,Delivered
+IND-2023-1508,19-02-2023,CUS-1013,Amit Mishra,Delhi,Delhi,North,Levi's Men Slim Fit Denim Jeans,Fashion,4498.2,2,925.15,UPI,Delivered
+IND-2023-1509,30-05-2023,CUS-1006,Sneha Mukherjee,Ahmedabad,Gujarat,West,HP Pavilion 15 Core i5 Laptop,Electronics,87984,2,-4897,UPI,Delivered
+IND-2023-1510,01-05-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,SanDisk 128GB Ultra Dual Drive,Electronics,764.1,1,0,UPI,Cancelled
+IND-2023-1511,30-06-2023,CUS-1008,Pooja Nair,Indore,Madhya Pradesh,West,Biba Women Printed Anarkali Kurta,Fashion,7996,4,2080,Cash on Delivery,Shipped
+IND-2023-1512,16-02-2023,CUS-1011,Aditya Joshi,Hyderabad,Telangana,South,SanDisk 128GB Ultra Dual Drive,Electronics,1528.2,2,292.65,Credit Card,Delivered
+IND-2023-1513,11-08-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1422.15,3,423.86,Credit Card,Delivered
+IND-2023-1514,22-04-2023,CUS-1012,Kavita Rao,Delhi,Delhi,North,Fastrack Analog Watch for Men,Fashion,2201.5,2,328.62,Cash on Delivery,Delivered
+IND-2023-1515,31-07-2023,CUS-1009,Rajesh Kumar,Bengaluru,Karnataka,South,Biba Women Printed Anarkali Kurta,Fashion,3398.3,2,590.23,UPI,Delivered
+IND-2023-1516,05-10-2023,CUS-1002,Priya Patel,Lucknow,Uttar Pradesh,North,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,6476.4,4,980.3,UPI,Delivered
+IND-2023-1517,04-04-2023,CUS-1021,Arjun Reddy,Bengaluru,Karnataka,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1796.4,4,490.3,Debit Card,Delivered
+IND-2023-1518,07-10-2023,CUS-1010,Neha Singh,Lucknow,Uttar Pradesh,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,663,1,152.25,UPI,Shipped
+IND-2023-1519,24-10-2023,CUS-1013,Amit Mishra,Hyderabad,Telangana,South,Fastrack Analog Watch for Men,Fashion,2331,2,425.75,UPI,Delivered
+IND-2023-1520,16-07-2023,CUS-1013,Amit Mishra,Bhubaneswar,Odisha,East,Allen Solly Casual Cotton Shirt,Fashion,3597.6,3,465.45,UPI,Delivered
+IND-2023-1521,30-07-2023,CUS-1019,Manish Agarwal,Kochi,Kerala,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,11607.3,3,1192.72,UPI,Delivered
+IND-2023-1522,21-12-2023,CUS-1001,Aarav Sharma,Bhubaneswar,Odisha,East,Redmi Note 12 Pro 5G,Mobiles & Accessories,19799.1,1,750.07,UPI,Delivered
+IND-2023-1523,06-03-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,Peter England Formal Trousers,Fashion,3836.8,4,440.6,UPI,Delivered
+IND-2023-1524,18-11-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,39999,1,4800,Cash on Delivery,Shipped
+IND-2023-1525,06-10-2023,CUS-1008,Pooja Nair,Bhubaneswar,Odisha,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,39999,1,4800,UPI,Delivered
+IND-2023-1526,12-08-2023,CUS-1016,Ritu Mehta,Patna,Bihar,East,Lavie Women Handbag,Fashion,3222,2,511.5,Net Banking,Delivered
+IND-2023-1527,22-03-2023,CUS-1010,Neha Singh,Ahmedabad,Gujarat,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,525,1,-78.75,Cash on Delivery,Returned
+IND-2023-1528,17-11-2023,CUS-1013,Amit Mishra,Ahmedabad,Gujarat,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,49996,4,-5800,UPI,Delivered
+IND-2023-1529,20-10-2023,CUS-1013,Amit Mishra,Bengaluru,Karnataka,South,Levi's Men Slim Fit Denim Jeans,Fashion,2249.1,1,462.57,Cash on Delivery,Delivered
+IND-2023-1530,27-08-2023,CUS-1019,Manish Agarwal,Kochi,Kerala,South,Levi's Men Slim Fit Denim Jeans,Fashion,3998.4,2,550.3,Debit Card,Delivered
+IND-2023-1531,02-07-2023,CUS-1017,Deepak Chopra,Patna,Bihar,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,30596.6,4,750.45,UPI,Delivered
+IND-2023-1532,19-02-2023,CUS-1002,Priya Patel,Hyderabad,Telangana,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,1890,2,420,UPI,Delivered
+IND-2023-1533,09-02-2023,CUS-1011,Aditya Joshi,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,129998,2,14400,UPI,Delivered
+IND-2023-1534,01-08-2023,CUS-1025,Siddharth Sen,Bengaluru,Karnataka,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,37398.3,2,-149.77,UPI,Shipped
+IND-2023-1535,01-07-2023,CUS-1005,Rohan Gupta,Patna,Bihar,East,Philips Air Fryer HD9200,Home & Kitchen,17547.3,3,1387.72,UPI,Delivered
+IND-2023-1536,09-09-2023,CUS-1022,Tanvi Deshmukh,Ahmedabad,Gujarat,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2598,2,640,Cash on Delivery,Delivered
+IND-2023-1537,17-02-2023,CUS-1004,Ananya Iyer,Delhi,Delhi,North,Lavie Women Handbag,Fashion,1790,1,390,Debit Card,Delivered
+IND-2023-1538,10-07-2023,CUS-1018,Divya Pillai,Ahmedabad,Gujarat,West,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5756.8,4,440.6,Net Banking,Delivered
+IND-2023-1539,15-04-2023,CUS-1004,Ananya Iyer,Chennai,Tamil Nadu,South,OnePlus 11R 5G (128GB),Mobiles & Accessories,79998,2,0,Credit Card,Cancelled
+IND-2023-1540,26-02-2023,CUS-1025,Siddharth Sen,Mumbai,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6078.1,2,860.08,Cash on Delivery,Shipped
+IND-2023-1541,10-11-2023,CUS-1016,Ritu Mehta,Kolkata,West Bengal,East,Logitech Wireless Keyboard & Mouse,Electronics,5980,4,1400,Cash on Delivery,Delivered
+IND-2023-1542,01-09-2023,CUS-1003,Rahul Verma,Bhubaneswar,Odisha,East,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1104.15,1,173.86,Credit Card,Delivered
+IND-2023-1543,30-01-2023,CUS-1023,Gaurav Bansal,Patna,Bihar,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,649,1,220,Credit Card,Delivered
+IND-2023-1544,22-04-2023,CUS-1005,Rohan Gupta,Kolkata,West Bengal,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,4796,4,1040,UPI,Delivered
+IND-2023-1545,14-09-2023,CUS-1024,Meera Nambiar,Pune,Maharashtra,West,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1299,1,320,UPI,Delivered
+IND-2023-1546,05-01-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Samsung Galaxy S23 5G,Mobiles & Accessories,259996,4,28800,Credit Card,Delivered
+IND-2023-1547,24-04-2023,CUS-1017,Deepak Chopra,Kochi,Kerala,South,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,2076.8,4,490.6,UPI,Delivered
+IND-2023-1548,03-07-2023,CUS-1015,Karan Kapoor,Indore,Madhya Pradesh,West,Fastrack Analog Watch for Men,Fashion,5180,4,1240,Net Banking,Delivered
+IND-2023-1549,28-05-2023,CUS-1005,Rohan Gupta,Patna,Bihar,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,67998.3,2,600.23,UPI,Delivered
+IND-2023-1550,28-12-2023,CUS-1013,Amit Mishra,Kolkata,West Bengal,East,Puma Unisex Smashic Sneakers,Fashion,2184.05,1,-266.21,Cash on Delivery,Delivered
+IND-2023-1551,24-10-2023,CUS-1008,Pooja Nair,Kolkata,West Bengal,East,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2693.25,3,523.69,UPI,Delivered
+IND-2023-1552,01-09-2023,CUS-1024,Meera Nambiar,Bengaluru,Karnataka,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,499,1,160,Cash on Delivery,Delivered
+IND-2023-1553,03-05-2023,CUS-1016,Ritu Mehta,Patna,Bihar,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,79998,2,9600,Credit Card,Delivered
+IND-2023-1554,11-07-2023,CUS-1014,Sunita Das,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,840,2,192.5,UPI,Delivered
+IND-2023-1555,14-09-2023,CUS-1018,Divya Pillai,Patna,Bihar,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1038.4,2,245.3,Net Banking,Delivered
+IND-2023-1556,18-03-2023,CUS-1020,Shweta Tiwari,Bhubaneswar,Odisha,East,Logitech Wireless Keyboard & Mouse,Electronics,1270.75,1,181.81,Credit Card,Processing
+IND-2023-1557,10-10-2023,CUS-1016,Ritu Mehta,Lucknow,Uttar Pradesh,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2652,4,0,Net Banking,Cancelled
+IND-2023-1558,30-04-2023,CUS-1015,Karan Kapoor,Pune,Maharashtra,West,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,Debit Card,Delivered
+IND-2023-1559,30-06-2023,CUS-1011,Aditya Joshi,Bengaluru,Karnataka,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,12252.15,3,1676.36,UPI,Delivered
+IND-2023-1560,20-12-2023,CUS-1016,Ritu Mehta,Lucknow,Uttar Pradesh,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,472.5,1,135.62,UPI,Delivered
+IND-2023-1561,25-05-2023,CUS-1017,Deepak Chopra,Ahmedabad,Gujarat,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,798.4,2,170.3,Cash on Delivery,Delivered
+IND-2023-1562,04-12-2023,CUS-1021,Arjun Reddy,Pune,Maharashtra,West,Puma Unisex Smashic Sneakers,Fashion,5862.45,3,-1315.91,Credit Card,Processing
+IND-2023-1563,18-08-2023,CUS-1011,Aditya Joshi,Pune,Maharashtra,West,Allen Solly Casual Cotton Shirt,Fashion,3597.6,3,465.45,Credit Card,Shipped
+IND-2023-1564,08-11-2023,CUS-1025,Siddharth Sen,Kolkata,West Bengal,East,JBL Flip 6 Portable Bluetooth Speaker,Electronics,28796.8,4,-599.4,Credit Card,Delivered
+IND-2023-1565,13-10-2023,CUS-1005,Rohan Gupta,Jaipur,Rajasthan,North,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,6660,4,805,UPI,Delivered
+IND-2023-1566,19-04-2023,CUS-1006,Sneha Mukherjee,Bengaluru,Karnataka,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,4717.5,3,395.62,Net Banking,Delivered
+IND-2023-1567,13-03-2023,CUS-1013,Amit Mishra,Bengaluru,Karnataka,South,Philips Air Fryer HD9200,Home & Kitchen,5849.1,1,462.57,UPI,Shipped
+IND-2023-1568,18-10-2023,CUS-1021,Arjun Reddy,Kochi,Kerala,South,SanDisk 128GB Ultra Dual Drive,Electronics,2547,3,630,UPI,Delivered
+IND-2023-1569,26-04-2023,CUS-1001,Aarav Sharma,Mumbai,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,54990,1,5800,UPI,Delivered
+IND-2023-1570,03-10-2023,CUS-1014,Sunita Das,Ahmedabad,Gujarat,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1050,2,350,UPI,Delivered
+IND-2023-1571,19-12-2023,CUS-1022,Tanvi Deshmukh,Indore,Madhya Pradesh,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,7677.6,3,210.45,Credit Card,Delivered
+IND-2023-1572,13-08-2023,CUS-1011,Aditya Joshi,Hyderabad,Telangana,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1572.5,1,131.88,UPI,Delivered
+IND-2023-1573,28-01-2023,CUS-1004,Ananya Iyer,Lucknow,Uttar Pradesh,North,Logitech Wireless Keyboard & Mouse,Electronics,1196,1,-179.4,UPI,Returned
+IND-2023-1574,04-01-2023,CUS-1024,Meera Nambiar,Indore,Madhya Pradesh,West,Philips Air Fryer HD9200,Home & Kitchen,6499,1,950,UPI,Delivered
+IND-2023-1575,01-10-2023,CUS-1021,Arjun Reddy,Delhi,Delhi,North,Peter England Formal Trousers,Fashion,1139.05,1,245.04,Cash on Delivery,Processing
+IND-2023-1576,16-11-2023,CUS-1015,Karan Kapoor,Chandigarh,Punjab,North,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,4796,4,1040,UPI,Delivered
+IND-2023-1577,24-11-2023,CUS-1008,Pooja Nair,Lucknow,Uttar Pradesh,North,Canon EOS 1500D DSLR Camera,Electronics,71383,2,-447.75,Credit Card,Shipped
+IND-2023-1578,25-11-2023,CUS-1003,Rahul Verma,Mumbai,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,79781,2,-11967.15,UPI,Returned
+IND-2023-1579,21-10-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Philips Air Fryer HD9200,Home & Kitchen,23396.4,4,1850.3,Cash on Delivery,Delivered
+IND-2023-1580,23-05-2023,CUS-1024,Meera Nambiar,Ahmedabad,Gujarat,West,Puma Unisex Smashic Sneakers,Fashion,7816.6,4,-1754.55,UPI,Delivered
+IND-2023-1581,11-10-2023,CUS-1009,Rajesh Kumar,Delhi,Delhi,North,Philips Air Fryer HD9200,Home & Kitchen,17547.3,3,1387.72,Credit Card,Delivered
+IND-2023-1582,12-05-2023,CUS-1019,Manish Agarwal,Delhi,Delhi,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,8637.3,3,930.22,Cash on Delivery,Shipped
+IND-2023-1583,25-09-2023,CUS-1016,Ritu Mehta,Lucknow,Uttar Pradesh,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2835,3,630,UPI,Delivered
+IND-2023-1584,27-04-2023,CUS-1024,Meera Nambiar,Mumbai,Maharashtra,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1496.25,3,465.94,Debit Card,Delivered
+IND-2023-1585,27-09-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,Spigen Armor Back Cover,Mobiles & Accessories,2277.15,3,660.11,UPI,Delivered
+IND-2023-1586,30-08-2023,CUS-1009,Rajesh Kumar,Delhi,Delhi,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,70396.8,4,-3599.4,Cash on Delivery,Delivered
+IND-2023-1587,30-04-2023,CUS-1012,Kavita Rao,Chandigarh,Punjab,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,56097.45,3,-224.66,Credit Card,Delivered
+IND-2023-1588,07-05-2023,CUS-1023,Gaurav Bansal,Kochi,Kerala,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,2468.1,2,542.58,UPI,Delivered
+IND-2023-1589,01-06-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2998,2,720,UPI,Delivered
+IND-2023-1590,09-05-2023,CUS-1010,Neha Singh,Pune,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,37791,1,1350.75,Cash on Delivery,Delivered
+IND-2023-1591,14-03-2023,CUS-1019,Manish Agarwal,Bhubaneswar,Odisha,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,35999.1,1,1800.07,UPI,Delivered
+IND-2023-1592,20-04-2023,CUS-1018,Divya Pillai,Mumbai,Maharashtra,West,Allen Solly Casual Cotton Shirt,Fashion,5996,4,1520,Credit Card,Delivered
+IND-2023-1593,12-03-2023,CUS-1006,Sneha Mukherjee,Hyderabad,Telangana,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1529.15,1,177.61,Cash on Delivery,Delivered
+IND-2023-1594,25-09-2023,CUS-1016,Ritu Mehta,Hyderabad,Telangana,South,Allen Solly Casual Cotton Shirt,Fashion,5096.6,4,845.45,UPI,Delivered
+IND-2023-1595,15-03-2023,CUS-1009,Rajesh Kumar,Hyderabad,Telangana,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,3597.6,3,405.45,Cash on Delivery,Delivered
+IND-2023-1596,25-02-2023,CUS-1005,Rohan Gupta,Bengaluru,Karnataka,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,3897,3,960,UPI,Delivered
+IND-2023-1597,16-04-2023,CUS-1018,Divya Pillai,Chennai,Tamil Nadu,South,Biba Women Printed Anarkali Kurta,Fashion,5097.45,3,885.34,Credit Card,Delivered
+IND-2023-1598,07-06-2023,CUS-1024,Meera Nambiar,Lucknow,Uttar Pradesh,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,12796,4,2200,UPI,Delivered
+IND-2023-1599,09-05-2023,CUS-1015,Karan Kapoor,Delhi,Delhi,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,8549.05,1,862.54,Debit Card,Delivered
+IND-2023-1600,25-07-2023,CUS-1009,Rajesh Kumar,Hyderabad,Telangana,South,Fastrack Analog Watch for Men,Fashion,1295,1,310,Debit Card,Delivered
+IND-2023-1601,02-01-2023,CUS-1014,Sunita Das,Kochi,Kerala,South,Samsung Galaxy S23 5G,Mobiles & Accessories,64999,1,7200,UPI,Delivered
+IND-2023-1602,29-10-2023,CUS-1012,Kavita Rao,Mumbai,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,125970,3,13500,UPI,Delivered
+IND-2023-1603,05-03-2023,CUS-1023,Gaurav Bansal,Chennai,Tamil Nadu,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,17599.2,1,-899.85,Cash on Delivery,Delivered
+IND-2023-1604,13-02-2023,CUS-1005,Rohan Gupta,Indore,Madhya Pradesh,West,Samsung Galaxy S23 5G,Mobiles & Accessories,110498.3,2,-224.78,Credit Card,Delivered
+IND-2023-1605,26-10-2023,CUS-1018,Divya Pillai,Ahmedabad,Gujarat,West,Canon EOS 1500D DSLR Camera,Electronics,41990,1,4500,UPI,Delivered
+IND-2023-1606,19-07-2023,CUS-1019,Manish Agarwal,Bengaluru,Karnataka,South,JBL Flip 6 Portable Bluetooth Speaker,Electronics,17098.1,2,1725.07,UPI,Delivered
+IND-2023-1607,13-09-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2106,3,544.5,Cash on Delivery,Shipped
+IND-2023-1608,23-07-2023,CUS-1012,Kavita Rao,Kolkata,West Bengal,East,Sony Bravia 43-inch 4K LED TV,Electronics,111121.5,3,7913.62,Debit Card,Delivered
+IND-2023-1609,10-01-2023,CUS-1018,Divya Pillai,Chennai,Tamil Nadu,South,Allen Solly Casual Cotton Shirt,Fashion,2848.1,2,647.58,Debit Card,Delivered
+IND-2023-1610,17-12-2023,CUS-1024,Meera Nambiar,Chennai,Tamil Nadu,South,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,420,1,96.25,Debit Card,Delivered
+IND-2023-1611,08-11-2023,CUS-1011,Aditya Joshi,Kochi,Kerala,South,JBL Flip 6 Portable Bluetooth Speaker,Electronics,28796.8,4,-599.4,UPI,Delivered
+IND-2023-1612,21-10-2023,CUS-1017,Deepak Chopra,Delhi,Delhi,North,Sony Bravia 43-inch 4K LED TV,Electronics,93576,3,-5245.5,Credit Card,Delivered
+IND-2023-1613,03-06-2023,CUS-1003,Rahul Verma,Indore,Madhya Pradesh,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,24297.3,3,0,UPI,Cancelled
+IND-2023-1614,14-01-2023,CUS-1002,Priya Patel,Delhi,Delhi,North,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,1199,1,260,Net Banking,Delivered
+IND-2023-1615,27-06-2023,CUS-1007,Vikram Malhotra,Ahmedabad,Gujarat,West,Biba Women Printed Anarkali Kurta,Fashion,7196.4,4,1480.3,Debit Card,Delivered
+IND-2023-1616,24-02-2023,CUS-1004,Ananya Iyer,Hyderabad,Telangana,South,Levi's Men Slim Fit Denim Jeans,Fashion,9996,4,2600,Credit Card,Delivered
+IND-2023-1617,03-12-2023,CUS-1008,Pooja Nair,Pune,Maharashtra,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,809.1,1,-187.43,Credit Card,Delivered
+IND-2023-1618,04-09-2023,CUS-1018,Divya Pillai,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,165747.45,3,-337.16,UPI,Delivered
+IND-2023-1619,14-03-2023,CUS-1020,Shweta Tiwari,Delhi,Delhi,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6398,2,1100,UPI,Delivered
+IND-2023-1620,01-12-2023,CUS-1004,Ananya Iyer,Ahmedabad,Gujarat,West,Spigen Armor Back Cover,Mobiles & Accessories,719.1,1,-107.86,UPI,Returned
+IND-2023-1621,01-11-2023,CUS-1024,Meera Nambiar,Kochi,Kerala,South,Puma Unisex Smashic Sneakers,Fashion,6897,3,-540,Cash on Delivery,Delivered
+IND-2023-1622,11-05-2023,CUS-1023,Gaurav Bansal,Bengaluru,Karnataka,South,Puma Unisex Smashic Sneakers,Fashion,5862.45,3,-1315.91,UPI,Delivered
+IND-2023-1623,23-10-2023,CUS-1017,Deepak Chopra,Indore,Madhya Pradesh,West,OnePlus 11R 5G (128GB),Mobiles & Accessories,113997.15,3,9900.11,Debit Card,Delivered
+IND-2023-1624,14-06-2023,CUS-1017,Deepak Chopra,Delhi,Delhi,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,34196.2,4,3450.15,Net Banking,Delivered
+IND-2023-1625,02-02-2023,CUS-1015,Karan Kapoor,Chennai,Tamil Nadu,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1989,3,456.75,UPI,Delivered
+IND-2023-1626,07-02-2023,CUS-1022,Tanvi Deshmukh,Jaipur,Rajasthan,North,Fastrack Analog Watch for Men,Fashion,1230.25,1,261.44,Credit Card,Delivered
+IND-2023-1627,30-10-2023,CUS-1001,Aarav Sharma,Jaipur,Rajasthan,North,Canon EOS 1500D DSLR Camera,Electronics,71383,2,-447.75,UPI,Delivered
+IND-2023-1628,21-07-2023,CUS-1011,Aditya Joshi,Patna,Bihar,East,Spigen Armor Back Cover,Mobiles & Accessories,2397,3,-359.55,UPI,Returned
+IND-2023-1629,06-09-2023,CUS-1022,Tanvi Deshmukh,Ahmedabad,Gujarat,West,Peter England Formal Trousers,Fashion,4556.2,4,980.15,Cash on Delivery,Delivered
+IND-2023-1630,03-01-2023,CUS-1013,Amit Mishra,Hyderabad,Telangana,South,HP Pavilion 15 Core i5 Laptop,Electronics,104481,2,7475.75,UPI,Delivered
+IND-2023-1631,27-11-2023,CUS-1007,Vikram Malhotra,Bhubaneswar,Odisha,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,1528.3,2,-229.24,UPI,Returned
+IND-2023-1632,18-11-2023,CUS-1004,Ananya Iyer,Mumbai,Maharashtra,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,21597.6,3,-449.55,UPI,Shipped
+IND-2023-1633,23-08-2023,CUS-1005,Rohan Gupta,Hyderabad,Telangana,South,Prestige Iris 750W Mixer Grinder,Home & Kitchen,3039.05,1,430.04,Cash on Delivery,Delivered
+IND-2023-1634,22-04-2023,CUS-1018,Divya Pillai,Pune,Maharashtra,West,Peter England Formal Trousers,Fashion,4556.2,4,980.15,Credit Card,Delivered
+IND-2023-1635,08-03-2023,CUS-1017,Deepak Chopra,Bengaluru,Karnataka,South,Allen Solly Casual Cotton Shirt,Fashion,2998,2,760,Credit Card,Delivered
+IND-2023-1636,18-06-2023,CUS-1015,Karan Kapoor,Bhubaneswar,Odisha,East,Philips Air Fryer HD9200,Home & Kitchen,12998,2,1900,Credit Card,Delivered
+IND-2023-1637,07-02-2023,CUS-1002,Priya Patel,Jaipur,Rajasthan,North,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3237.3,3,510.22,Debit Card,Delivered
+IND-2023-1638,09-04-2023,CUS-1002,Priya Patel,Jaipur,Rajasthan,North,Logitech Wireless Keyboard & Mouse,Electronics,2990,2,-448.5,UPI,Returned
+IND-2023-1639,27-05-2023,CUS-1020,Shweta Tiwari,Pune,Maharashtra,West,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,449.1,1,122.57,Credit Card,Shipped
+IND-2023-1640,04-08-2023,CUS-1010,Neha Singh,Bhubaneswar,Odisha,East,Levi's Men Slim Fit Denim Jeans,Fashion,4998,2,-749.7,UPI,Returned
+IND-2023-1641,21-05-2023,CUS-1005,Rohan Gupta,Bengaluru,Karnataka,South,Peter England Formal Trousers,Fashion,3836.8,4,-575.52,Cash on Delivery,Returned
+IND-2023-1642,18-07-2023,CUS-1021,Arjun Reddy,Kolkata,West Bengal,East,Philips Air Fryer HD9200,Home & Kitchen,18522.15,3,2118.86,UPI,Delivered
+IND-2023-1643,30-08-2023,CUS-1025,Siddharth Sen,Patna,Bihar,East,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3416.2,4,-614.85,Debit Card,Shipped
+IND-2023-1644,02-01-2023,CUS-1021,Arjun Reddy,Bengaluru,Karnataka,South,Biba Women Printed Anarkali Kurta,Fashion,5397.3,3,1110.22,UPI,Delivered
+IND-2023-1645,17-08-2023,CUS-1010,Neha Singh,Bengaluru,Karnataka,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,3515,2,541.25,Credit Card,Delivered
+IND-2023-1646,30-05-2023,CUS-1018,Divya Pillai,Hyderabad,Telangana,South,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,4796.8,4,540.6,UPI,Delivered
+IND-2023-1647,09-12-2023,CUS-1003,Rahul Verma,Bhubaneswar,Odisha,East,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,2206.6,4,587.95,UPI,Delivered
+IND-2023-1648,12-11-2023,CUS-1006,Sneha Mukherjee,Jaipur,Rajasthan,North,Allen Solly Casual Cotton Shirt,Fashion,1199.2,1,155.15,Credit Card,Processing
+IND-2023-1649,04-04-2023,CUS-1019,Manish Agarwal,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1785,4,463.75,Debit Card,Processing
+IND-2023-1650,16-08-2023,CUS-1010,Neha Singh,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,37497,3,-4350,Cash on Delivery,Delivered
+IND-2023-1651,24-04-2023,CUS-1009,Rajesh Kumar,Lucknow,Uttar Pradesh,North,Lavie Women Handbag,Fashion,1790,1,390,UPI,Shipped
+IND-2023-1652,25-08-2023,CUS-1020,Shweta Tiwari,Kolkata,West Bengal,East,Sony Bravia 43-inch 4K LED TV,Electronics,66283,2,0,UPI,Cancelled
+IND-2023-1653,04-04-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1995,4,621.25,UPI,Delivered
+IND-2023-1654,17-05-2023,CUS-1018,Divya Pillai,Chandigarh,Punjab,North,Lavie Women Handbag,Fashion,7160,4,1560,UPI,Delivered
+IND-2023-1655,03-06-2023,CUS-1024,Meera Nambiar,Bengaluru,Karnataka,South,Biba Women Printed Anarkali Kurta,Fashion,5997,3,1560,Net Banking,Delivered
+IND-2023-1656,13-10-2023,CUS-1020,Shweta Tiwari,Bengaluru,Karnataka,South,Milton Thermosteel Bottle 1000ml,Home & Kitchen,756,1,-113.4,UPI,Returned
+IND-2023-1657,07-08-2023,CUS-1010,Neha Singh,Mumbai,Maharashtra,West,Sony Bravia 43-inch 4K LED TV,Electronics,62384,2,-3497,Credit Card,Delivered
+IND-2023-1658,09-05-2023,CUS-1018,Divya Pillai,Kochi,Kerala,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,3238.2,2,490.15,Cash on Delivery,Delivered
+IND-2023-1659,07-07-2023,CUS-1013,Amit Mishra,Delhi,Delhi,North,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,UPI,Delivered
+IND-2023-1660,07-04-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Prestige Iris 750W Mixer Grinder,Home & Kitchen,6398,2,1100,Debit Card,Delivered
+IND-2023-1661,12-06-2023,CUS-1021,Arjun Reddy,Delhi,Delhi,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,3439.2,1,75.15,Debit Card,Delivered
+IND-2023-1662,28-05-2023,CUS-1010,Neha Singh,Mumbai,Maharashtra,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,49996,4,-5800,Debit Card,Delivered
+IND-2023-1663,02-10-2023,CUS-1007,Vikram Malhotra,Chennai,Tamil Nadu,South,Prestige Iris 750W Mixer Grinder,Home & Kitchen,5758.2,2,620.15,Cash on Delivery,Delivered
+IND-2023-1664,10-10-2023,CUS-1020,Shweta Tiwari,Kochi,Kerala,South,Lavie Women Handbag,Fashion,3401,2,645.75,Credit Card,Delivered
+IND-2023-1665,17-08-2023,CUS-1012,Kavita Rao,Lucknow,Uttar Pradesh,North,Biba Women Printed Anarkali Kurta,Fashion,3998,2,1040,Credit Card,Delivered
+IND-2023-1666,10-04-2023,CUS-1004,Ananya Iyer,Mumbai,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,3199,1,550,Cash on Delivery,Delivered
+IND-2023-1667,07-07-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,49996,4,-5800,UPI,Delivered
+IND-2023-1668,08-04-2023,CUS-1012,Kavita Rao,Chennai,Tamil Nadu,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,3330,2,-499.5,UPI,Returned
+IND-2023-1669,14-11-2023,CUS-1019,Manish Agarwal,Lucknow,Uttar Pradesh,North,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,5996,4,1440,Net Banking,Delivered
+IND-2023-1670,07-04-2023,CUS-1005,Rohan Gupta,Pune,Maharashtra,West,Prestige Iris 750W Mixer Grinder,Home & Kitchen,10876.6,4,760.45,Cash on Delivery,Delivered
+IND-2023-1671,12-08-2023,CUS-1007,Vikram Malhotra,Kochi,Kerala,South,Sony Bravia 43-inch 4K LED TV,Electronics,38990,1,4100,Debit Card,Delivered
+IND-2023-1672,20-09-2023,CUS-1005,Rohan Gupta,Chandigarh,Punjab,North,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1529.15,1,177.61,Credit Card,Delivered
+IND-2023-1673,13-10-2023,CUS-1023,Gaurav Bansal,Ahmedabad,Gujarat,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,2292.45,3,0,UPI,Cancelled
+IND-2023-1674,21-05-2023,CUS-1001,Aarav Sharma,Pune,Maharashtra,West,Puma Unisex Smashic Sneakers,Fashion,8736.2,4,-1064.85,Credit Card,Shipped
+IND-2023-1675,12-07-2023,CUS-1014,Sunita Das,Pune,Maharashtra,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,525,1,175,UPI,Delivered
+IND-2023-1676,28-03-2023,CUS-1020,Shweta Tiwari,Kolkata,West Bengal,East,Sony Bravia 43-inch 4K LED TV,Electronics,105273,3,3527.25,UPI,Delivered
+IND-2023-1677,27-05-2023,CUS-1014,Sunita Das,Pune,Maharashtra,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,20899.05,1,1575.04,Debit Card,Delivered
+IND-2023-1678,26-05-2023,CUS-1017,Deepak Chopra,Indore,Madhya Pradesh,West,Sony Bravia 43-inch 4K LED TV,Electronics,148162,4,10551.5,UPI,Delivered
+IND-2023-1679,07-11-2023,CUS-1013,Amit Mishra,Patna,Bihar,East,Levi's Men Slim Fit Denim Jeans,Fashion,1999.2,1,275.15,Debit Card,Delivered
+IND-2023-1680,22-12-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,Philips Air Fryer HD9200,Home & Kitchen,6499,1,950,UPI,Shipped
+IND-2023-1681,07-03-2023,CUS-1002,Priya Patel,Mumbai,Maharashtra,West,Logitech Wireless Keyboard & Mouse,Electronics,5083,4,727.25,Credit Card,Delivered
+IND-2023-1682,20-03-2023,CUS-1013,Amit Mishra,Patna,Bihar,East,Sony Bravia 43-inch 4K LED TV,Electronics,38990,1,4100,UPI,Delivered
+IND-2023-1683,31-03-2023,CUS-1023,Gaurav Bansal,Chandigarh,Punjab,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,616.55,1,195.66,Net Banking,Delivered
+IND-2023-1684,16-09-2023,CUS-1017,Deepak Chopra,Mumbai,Maharashtra,West,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,UPI,Delivered
+IND-2023-1685,01-02-2023,CUS-1003,Rahul Verma,Bengaluru,Karnataka,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,4587.45,3,532.84,Debit Card,Delivered
+IND-2023-1686,29-05-2023,CUS-1017,Deepak Chopra,Pune,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,93483,2,-772.75,UPI,Delivered
+IND-2023-1687,20-10-2023,CUS-1019,Manish Agarwal,Ahmedabad,Gujarat,West,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2548.3,2,382.73,Debit Card,Delivered
+IND-2023-1688,25-12-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Spigen Armor Back Cover,Mobiles & Accessories,1917.6,3,390.45,Credit Card,Delivered
+IND-2023-1689,02-05-2023,CUS-1021,Arjun Reddy,Kolkata,West Bengal,East,Allen Solly Casual Cotton Shirt,Fashion,4272.15,3,971.36,UPI,Delivered
+IND-2023-1690,07-10-2023,CUS-1020,Shweta Tiwari,Kolkata,West Bengal,East,Lavie Women Handbag,Fashion,1432,1,121.5,UPI,Delivered
+IND-2023-1691,03-03-2023,CUS-1018,Divya Pillai,Jaipur,Rajasthan,North,Philips Air Fryer HD9200,Home & Kitchen,11698.2,2,925.15,UPI,Delivered
+IND-2023-1692,09-06-2023,CUS-1016,Ritu Mehta,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,840,2,192.5,UPI,Delivered
+IND-2023-1693,28-03-2023,CUS-1024,Meera Nambiar,Patna,Bihar,East,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,11607.3,3,1192.72,Credit Card,Delivered
+IND-2023-1694,02-05-2023,CUS-1013,Amit Mishra,Hyderabad,Telangana,South,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,1850,1,340,UPI,Delivered
+IND-2023-1695,22-10-2023,CUS-1023,Gaurav Bansal,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1496.25,3,465.94,UPI,Shipped
+IND-2023-1696,18-01-2023,CUS-1008,Pooja Nair,Lucknow,Uttar Pradesh,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,3199,1,550,UPI,Delivered
+IND-2023-1697,25-04-2023,CUS-1007,Vikram Malhotra,Chennai,Tamil Nadu,South,Biba Women Printed Anarkali Kurta,Fashion,3998,2,1040,UPI,Delivered
+IND-2023-1698,30-04-2023,CUS-1012,Kavita Rao,Kochi,Kerala,South,Logitech Wireless Keyboard & Mouse,Electronics,2990,2,700,Credit Card,Delivered
+IND-2023-1699,08-05-2023,CUS-1006,Sneha Mukherjee,Hyderabad,Telangana,South,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,1169.1,1,222.57,Credit Card,Delivered
+IND-2023-1700,16-03-2023,CUS-1015,Karan Kapoor,Chennai,Tamil Nadu,South,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,840,2,192.5,UPI,Shipped
+IND-2023-1701,20-11-2023,CUS-1024,Meera Nambiar,Hyderabad,Telangana,South,Biba Women Printed Anarkali Kurta,Fashion,6396.8,4,880.6,UPI,Processing
+IND-2023-1702,24-05-2023,CUS-1004,Ananya Iyer,Patna,Bihar,East,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,Credit Card,Delivered
+IND-2023-1703,20-09-2023,CUS-1006,Sneha Mukherjee,Kolkata,West Bengal,East,Biba Women Printed Anarkali Kurta,Fashion,3598.2,2,740.15,UPI,Delivered
+IND-2023-1704,25-05-2023,CUS-1014,Sunita Das,Mumbai,Maharashtra,West,Philips Air Fryer HD9200,Home & Kitchen,25996,4,3800,Debit Card,Delivered
+IND-2023-1705,01-07-2023,CUS-1018,Divya Pillai,Ahmedabad,Gujarat,West,Peter England Formal Trousers,Fashion,959.2,1,110.15,Cash on Delivery,Delivered
+IND-2023-1706,26-08-2023,CUS-1016,Ritu Mehta,Chennai,Tamil Nadu,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2808,4,726,UPI,Delivered
+IND-2023-1707,05-03-2023,CUS-1023,Gaurav Bansal,Jaipur,Rajasthan,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,16336.2,4,2235.15,Debit Card,Delivered
+IND-2023-1708,24-03-2023,CUS-1025,Siddharth Sen,Bengaluru,Karnataka,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,11607.3,3,1192.72,Credit Card,Delivered
+IND-2023-1709,18-12-2023,CUS-1007,Vikram Malhotra,Delhi,Delhi,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,719.2,1,-254.85,UPI,Delivered
+IND-2023-1710,28-10-2023,CUS-1021,Arjun Reddy,Bengaluru,Karnataka,South,Peter England Formal Trousers,Fashion,2398,2,580,UPI,Delivered
+IND-2023-1711,16-05-2023,CUS-1023,Gaurav Bansal,Bengaluru,Karnataka,South,HP Pavilion 15 Core i5 Laptop,Electronics,156721.5,3,11213.62,Cash on Delivery,Delivered
+IND-2023-1712,05-01-2023,CUS-1009,Rajesh Kumar,Indore,Madhya Pradesh,West,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5397,3,-809.55,Credit Card,Returned
+IND-2023-1713,23-02-2023,CUS-1009,Rajesh Kumar,Kolkata,West Bengal,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1050,2,350,Credit Card,Delivered
+IND-2023-1714,17-05-2023,CUS-1002,Priya Patel,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,259996,4,28800,UPI,Delivered
+IND-2023-1715,04-03-2023,CUS-1013,Amit Mishra,Ahmedabad,Gujarat,West,Canon EOS 1500D DSLR Camera,Electronics,41990,1,4500,UPI,Delivered
+IND-2023-1716,15-05-2023,CUS-1020,Shweta Tiwari,Kolkata,West Bengal,East,Levi's Men Slim Fit Denim Jeans,Fashion,2124.15,1,368.86,Cash on Delivery,Delivered
+IND-2023-1717,11-08-2023,CUS-1008,Pooja Nair,Delhi,Delhi,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4084.05,1,558.79,UPI,Processing
+IND-2023-1718,28-03-2023,CUS-1021,Arjun Reddy,Chandigarh,Punjab,North,Lavie Women Handbag,Fashion,3222,2,511.5,UPI,Delivered
+IND-2023-1719,01-02-2023,CUS-1010,Neha Singh,Hyderabad,Telangana,South,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,24998,2,-2900,UPI,Delivered
+IND-2023-1720,02-04-2023,CUS-1005,Rohan Gupta,Bengaluru,Karnataka,South,Levi's Men Slim Fit Denim Jeans,Fashion,4998,2,-749.7,UPI,Returned
+IND-2023-1721,06-02-2023,CUS-1004,Ananya Iyer,Chandigarh,Punjab,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1896.2,4,565.15,UPI,Delivered
+IND-2023-1722,01-10-2023,CUS-1021,Arjun Reddy,Lucknow,Uttar Pradesh,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,42496.6,4,-11424.55,UPI,Delivered
+IND-2023-1723,20-10-2023,CUS-1004,Ananya Iyer,Kochi,Kerala,South,Spigen Armor Back Cover,Mobiles & Accessories,639.2,1,130.15,Cash on Delivery,Delivered
+IND-2023-1724,03-08-2023,CUS-1013,Amit Mishra,Jaipur,Rajasthan,North,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,3058.3,2,355.23,Debit Card,Delivered
+IND-2023-1725,18-07-2023,CUS-1011,Aditya Joshi,Patna,Bihar,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,7196,4,1520,UPI,Delivered
+IND-2023-1726,27-12-2023,CUS-1025,Siddharth Sen,Delhi,Delhi,North,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,31872.45,3,-8568.41,Credit Card,Delivered
+IND-2023-1727,20-06-2023,CUS-1019,Manish Agarwal,Mumbai,Maharashtra,West,Sony Bravia 43-inch 4K LED TV,Electronics,35091,1,1175.75,Net Banking,Delivered
+IND-2023-1728,14-06-2023,CUS-1002,Priya Patel,Chandigarh,Punjab,North,Fastrack Analog Watch for Men,Fashion,3302.25,3,492.94,UPI,Delivered
+IND-2023-1729,21-04-2023,CUS-1005,Rohan Gupta,Ahmedabad,Gujarat,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,10317.6,3,225.45,UPI,Delivered
+IND-2023-1730,11-11-2023,CUS-1024,Meera Nambiar,Indore,Madhya Pradesh,West,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,624,1,123,UPI,Shipped
+IND-2023-1731,30-04-2023,CUS-1022,Tanvi Deshmukh,Lucknow,Uttar Pradesh,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,472.5,1,135.62,Net Banking,Processing
+IND-2023-1732,07-07-2023,CUS-1001,Aarav Sharma,Mumbai,Maharashtra,West,Lavie Women Handbag,Fashion,7160,4,1560,Cash on Delivery,Delivered
+IND-2023-1733,27-11-2023,CUS-1014,Sunita Das,Mumbai,Maharashtra,West,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5127.15,3,937.61,Cash on Delivery,Processing
+IND-2023-1734,17-11-2023,CUS-1012,Kavita Rao,Lucknow,Uttar Pradesh,North,Logitech Wireless Keyboard & Mouse,Electronics,4485,3,1050,UPI,Delivered
+IND-2023-1735,12-08-2023,CUS-1020,Shweta Tiwari,Jaipur,Rajasthan,North,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,3596,4,-480,Net Banking,Delivered
+IND-2023-1736,26-04-2023,CUS-1008,Pooja Nair,Bengaluru,Karnataka,South,Puma Unisex Smashic Sneakers,Fashion,9196,4,-1379.4,Credit Card,Returned
+IND-2023-1737,17-07-2023,CUS-1002,Priya Patel,Kochi,Kerala,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,399.2,1,85.15,UPI,Delivered
+IND-2023-1738,11-04-2023,CUS-1020,Shweta Tiwari,Ahmedabad,Gujarat,West,Lavie Women Handbag,Fashion,1700.5,1,322.88,Debit Card,Delivered
+IND-2023-1739,10-03-2023,CUS-1007,Vikram Malhotra,Chennai,Tamil Nadu,South,Logitech Wireless Keyboard & Mouse,Electronics,3588,3,377.25,UPI,Delivered
+IND-2023-1740,08-06-2023,CUS-1003,Rahul Verma,Chandigarh,Punjab,North,Logitech Wireless Keyboard & Mouse,Electronics,5382,4,951.5,UPI,Shipped
+IND-2023-1741,16-11-2023,CUS-1003,Rahul Verma,Indore,Madhya Pradesh,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,20899.05,1,1575.04,Credit Card,Delivered
+IND-2023-1742,22-09-2023,CUS-1010,Neha Singh,Chandigarh,Punjab,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,499,1,160,UPI,Delivered
+IND-2023-1743,21-04-2023,CUS-1010,Neha Singh,Pune,Maharashtra,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,11874.05,1,-1918.71,Credit Card,Delivered
+IND-2023-1744,15-08-2023,CUS-1011,Aditya Joshi,Chennai,Tamil Nadu,South,Logitech Wireless Keyboard & Mouse,Electronics,1495,1,350,Cash on Delivery,Delivered
+IND-2023-1745,05-09-2023,CUS-1015,Karan Kapoor,Ahmedabad,Gujarat,West,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,3598,2,760,Cash on Delivery,Processing
+IND-2023-1746,29-12-2023,CUS-1017,Deepak Chopra,Bhubaneswar,Odisha,East,Spigen Armor Back Cover,Mobiles & Accessories,2277.15,3,660.11,UPI,Delivered
+IND-2023-1747,02-06-2023,CUS-1002,Priya Patel,Kochi,Kerala,South,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,945,2,271.25,Cash on Delivery,Delivered
+IND-2023-1748,18-03-2023,CUS-1007,Vikram Malhotra,Ahmedabad,Gujarat,West,Canon EOS 1500D DSLR Camera,Electronics,167960,4,18000,Debit Card,Delivered
+IND-2023-1749,14-04-2023,CUS-1013,Amit Mishra,Lucknow,Uttar Pradesh,North,Redmi Note 12 Pro 5G,Mobiles & Accessories,43998,2,4800,UPI,Delivered
+IND-2023-1750,02-02-2023,CUS-1021,Arjun Reddy,Delhi,Delhi,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1557.6,3,367.95,Cash on Delivery,Delivered
+IND-2023-1751,24-10-2023,CUS-1012,Kavita Rao,Indore,Madhya Pradesh,West,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,37497,3,-4350,Credit Card,Delivered
+IND-2023-1752,03-05-2023,CUS-1012,Kavita Rao,Jaipur,Rajasthan,North,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1298,2,440,UPI,Processing
+IND-2023-1753,25-08-2023,CUS-1003,Rahul Verma,Kolkata,West Bengal,East,Levi's Men Slim Fit Denim Jeans,Fashion,2124.15,1,368.86,UPI,Shipped
+IND-2023-1754,25-07-2023,CUS-1021,Arjun Reddy,Chandigarh,Punjab,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,17098.1,2,1725.07,Cash on Delivery,Delivered
+IND-2023-1755,22-03-2023,CUS-1017,Deepak Chopra,Ahmedabad,Gujarat,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,65997,3,7200,UPI,Delivered
+IND-2023-1756,08-10-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,1896.2,4,565.15,Credit Card,Delivered
+IND-2023-1757,08-12-2023,CUS-1015,Karan Kapoor,Delhi,Delhi,North,Canon EOS 1500D DSLR Camera,Electronics,39890.5,1,2925.38,Credit Card,Processing
+IND-2023-1758,07-11-2023,CUS-1002,Priya Patel,Pune,Maharashtra,West,Canon EOS 1500D DSLR Camera,Electronics,119671.5,3,8776.12,Net Banking,Delivered
+IND-2023-1759,19-03-2023,CUS-1018,Divya Pillai,Patna,Bihar,East,HP Pavilion 15 Core i5 Laptop,Electronics,104481,2,7475.75,Cash on Delivery,Delivered
+IND-2023-1760,13-11-2023,CUS-1014,Sunita Das,Chennai,Tamil Nadu,South,Puma Unisex Smashic Sneakers,Fashion,4598,2,-360,UPI,Delivered
+IND-2023-1761,01-08-2023,CUS-1025,Siddharth Sen,Kolkata,West Bengal,East,Spigen Armor Back Cover,Mobiles & Accessories,1438.2,2,380.15,UPI,Delivered
+IND-2023-1762,09-03-2023,CUS-1004,Ananya Iyer,Bengaluru,Karnataka,South,Fastrack Analog Watch for Men,Fashion,3690.75,3,784.31,UPI,Delivered
+IND-2023-1763,20-12-2023,CUS-1002,Priya Patel,Chandigarh,Punjab,North,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,3597,3,0,UPI,Cancelled
+IND-2023-1764,17-03-2023,CUS-1007,Vikram Malhotra,Lucknow,Uttar Pradesh,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2496,4,492,Cash on Delivery,Delivered
+IND-2023-1765,02-08-2023,CUS-1017,Deepak Chopra,Pune,Maharashtra,West,Redmi Note 12 Pro 5G,Mobiles & Accessories,83596.2,4,6300.15,UPI,Delivered
+IND-2023-1766,18-04-2023,CUS-1024,Meera Nambiar,Jaipur,Rajasthan,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,10236.8,4,280.6,Debit Card,Delivered
+IND-2023-1767,01-01-2023,CUS-1023,Gaurav Bansal,Ahmedabad,Gujarat,West,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,7738.2,2,795.15,UPI,Delivered
+IND-2023-1768,21-05-2023,CUS-1010,Neha Singh,Kolkata,West Bengal,East,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1575,3,525,Debit Card,Delivered
+IND-2023-1769,13-06-2023,CUS-1017,Deepak Chopra,Lucknow,Uttar Pradesh,North,Peter England Formal Trousers,Fashion,3057.45,3,465.34,UPI,Delivered
+IND-2023-1770,29-04-2023,CUS-1002,Priya Patel,Delhi,Delhi,North,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5397,3,1140,Debit Card,Delivered
+IND-2023-1771,04-03-2023,CUS-1005,Rohan Gupta,Lucknow,Uttar Pradesh,North,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,848.3,2,207.73,Credit Card,Delivered
+IND-2023-1772,23-10-2023,CUS-1016,Ritu Mehta,Kochi,Kerala,South,Levi's Men Slim Fit Denim Jeans,Fashion,7497,3,1950,Credit Card,Delivered
+IND-2023-1773,01-12-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Canon EOS 1500D DSLR Camera,Electronics,35691.5,1,0,Cash on Delivery,Cancelled
+IND-2023-1774,01-11-2023,CUS-1005,Rohan Gupta,Mumbai,Maharashtra,West,Peter England Formal Trousers,Fashion,1918.4,2,220.3,Debit Card,Delivered
+IND-2023-1775,05-12-2023,CUS-1002,Priya Patel,Pune,Maharashtra,West,Solimo Water Repellent Polyester Curtains (Set of 2),Home & Kitchen,1798,2,-269.7,Cash on Delivery,Returned
+IND-2023-1776,18-12-2023,CUS-1006,Sneha Mukherjee,Mumbai,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,87984,2,0,Cash on Delivery,Cancelled
+IND-2023-1777,04-05-2023,CUS-1015,Karan Kapoor,Bengaluru,Karnataka,South,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,948.1,2,282.57,Net Banking,Delivered
+IND-2023-1778,10-02-2023,CUS-1008,Pooja Nair,Kochi,Kerala,South,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,4299,1,720,UPI,Shipped
+IND-2023-1779,02-05-2023,CUS-1020,Shweta Tiwari,Chandigarh,Punjab,North,Pigeon 4-Burner Glass Top Gas Stove,Home & Kitchen,14616.6,4,945.45,UPI,Delivered
+IND-2023-1780,12-11-2023,CUS-1018,Divya Pillai,Patna,Bihar,East,Mamaearth Onion Hair Fall Control Oil 250ml,Beauty & Personal Care,399.2,1,85.15,Cash on Delivery,Delivered
+IND-2023-1781,04-11-2023,CUS-1016,Ritu Mehta,Kolkata,West Bengal,East,Canon EOS 1500D DSLR Camera,Electronics,167960,4,0,UPI,Cancelled
+IND-2023-1782,01-04-2023,CUS-1013,Amit Mishra,Jaipur,Rajasthan,North,Sony Bravia 43-inch 4K LED TV,Electronics,77980,2,8200,UPI,Processing
+IND-2023-1783,09-01-2023,CUS-1015,Karan Kapoor,Chandigarh,Punjab,North,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2698.2,2,495.15,UPI,Delivered
+IND-2023-1784,29-01-2023,CUS-1024,Meera Nambiar,Delhi,Delhi,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,997.5,2,310.62,Credit Card,Processing
+IND-2023-1785,02-05-2023,CUS-1014,Sunita Das,Jaipur,Rajasthan,North,JBL Flip 6 Portable Bluetooth Speaker,Electronics,15298.3,2,375.23,UPI,Delivered
+IND-2023-1786,08-09-2023,CUS-1014,Sunita Das,Kochi,Kerala,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,43998,2,4800,Net Banking,Delivered
+IND-2023-1787,26-04-2023,CUS-1003,Rahul Verma,Patna,Bihar,East,Lavie Women Handbag,Fashion,4564.5,3,565.88,Credit Card,Delivered
+IND-2023-1788,10-11-2023,CUS-1025,Siddharth Sen,Pune,Maharashtra,West,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,1918.4,2,160.3,UPI,Processing
+IND-2023-1789,14-08-2023,CUS-1015,Karan Kapoor,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,525,1,175,Debit Card,Delivered
+IND-2023-1790,11-12-2023,CUS-1020,Shweta Tiwari,Kochi,Kerala,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5397,3,1140,UPI,Delivered
+IND-2023-1791,31-12-2023,CUS-1005,Rohan Gupta,Delhi,Delhi,North,Spigen Armor Back Cover,Mobiles & Accessories,639.2,1,130.15,Debit Card,Delivered
+IND-2023-1792,12-09-2023,CUS-1008,Pooja Nair,Mumbai,Maharashtra,West,Fastrack Analog Watch for Men,Fashion,3885,3,930,Credit Card,Shipped
+IND-2023-1793,15-07-2023,CUS-1002,Priya Patel,Kolkata,West Bengal,East,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,2340,3,720,Debit Card,Delivered
+IND-2023-1794,09-04-2023,CUS-1025,Siddharth Sen,Ahmedabad,Gujarat,West,Samsung Galaxy S23 5G,Mobiles & Accessories,165747.45,3,-337.16,UPI,Delivered
+IND-2023-1795,13-09-2023,CUS-1007,Vikram Malhotra,Kochi,Kerala,South,Canon EOS 1500D DSLR Camera,Electronics,142766,4,-895.5,Debit Card,Delivered
+IND-2023-1796,03-02-2023,CUS-1013,Amit Mishra,Chennai,Tamil Nadu,South,Fastrack Analog Watch for Men,Fashion,2072,2,-310.8,Debit Card,Returned
+IND-2023-1797,27-04-2023,CUS-1012,Kavita Rao,Indore,Madhya Pradesh,West,Puma Unisex Smashic Sneakers,Fashion,6897,3,-540,Credit Card,Delivered
+IND-2023-1798,12-05-2023,CUS-1025,Siddharth Sen,Bhubaneswar,Odisha,East,Allen Solly Casual Cotton Shirt,Fashion,1499,1,380,UPI,Delivered
+IND-2023-1799,30-09-2023,CUS-1021,Arjun Reddy,Hyderabad,Telangana,South,Sony Bravia 43-inch 4K LED TV,Electronics,124768,4,-6994,UPI,Processing
+IND-2023-1800,07-02-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,Puma Unisex Smashic Sneakers,Fashion,4598,2,-360,Credit Card,Shipped
+IND-2023-1801,18-06-2023,CUS-1016,Ritu Mehta,Kolkata,West Bengal,East,OnePlus 11R 5G (128GB),Mobiles & Accessories,31999.2,1,0,UPI,Cancelled
+IND-2023-1802,21-07-2023,CUS-1019,Manish Agarwal,Chennai,Tamil Nadu,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,741,1,210.75,UPI,Delivered
+IND-2023-1803,03-01-2023,CUS-1004,Ananya Iyer,Chennai,Tamil Nadu,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1248,2,246,UPI,Delivered
+IND-2023-1804,14-10-2023,CUS-1008,Pooja Nair,Indore,Madhya Pradesh,West,Hawkins Futura Hard Anodised Kadai,Home & Kitchen,6660,4,805,UPI,Processing
+IND-2023-1805,10-09-2023,CUS-1007,Vikram Malhotra,Pune,Maharashtra,West,HP Pavilion 15 Core i5 Laptop,Electronics,164970,3,17400,Cash on Delivery,Delivered
+IND-2023-1806,29-07-2023,CUS-1018,Divya Pillai,Indore,Madhya Pradesh,West,Lavie Women Handbag,Fashion,3401,2,645.75,Debit Card,Delivered
+IND-2023-1807,15-02-2023,CUS-1019,Manish Agarwal,Lucknow,Uttar Pradesh,North,OnePlus 11R 5G (128GB),Mobiles & Accessories,39999,1,-5999.85,Cash on Delivery,Returned
+IND-2023-1808,22-09-2023,CUS-1022,Tanvi Deshmukh,Mumbai,Maharashtra,West,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,945,2,271.25,UPI,Delivered
+IND-2023-1809,02-01-2023,CUS-1005,Rohan Gupta,Kochi,Kerala,South,HP Pavilion 15 Core i5 Laptop,Electronics,87984,2,-4897,Debit Card,Delivered
+IND-2023-1810,14-05-2023,CUS-1001,Aarav Sharma,Ahmedabad,Gujarat,West,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,1019.15,1,-152.87,Cash on Delivery,Returned
+IND-2023-1811,10-07-2023,CUS-1017,Deepak Chopra,Hyderabad,Telangana,South,Sony Bravia 43-inch 4K LED TV,Electronics,116970,3,12300,Cash on Delivery,Delivered
+IND-2023-1812,13-05-2023,CUS-1009,Rajesh Kumar,Chennai,Tamil Nadu,South,Lavie Women Handbag,Fashion,3043,2,377.25,Cash on Delivery,Delivered
+IND-2023-1813,05-06-2023,CUS-1012,Kavita Rao,Ahmedabad,Gujarat,West,Puma Unisex Smashic Sneakers,Fashion,4598,2,-360,Credit Card,Delivered
+IND-2023-1814,31-01-2023,CUS-1024,Meera Nambiar,Bhubaneswar,Odisha,East,Samsung Galaxy S23 5G,Mobiles & Accessories,165747.45,3,-337.16,Credit Card,Delivered
+IND-2023-1815,26-01-2023,CUS-1024,Meera Nambiar,Pune,Maharashtra,West,Samsung Galaxy S23 5G,Mobiles & Accessories,194997,3,21600,Credit Card,Delivered
+IND-2023-1816,02-11-2023,CUS-1024,Meera Nambiar,Kolkata,West Bengal,East,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5127.15,3,937.61,Net Banking,Delivered
+IND-2023-1817,12-05-2023,CUS-1005,Rohan Gupta,Jaipur,Rajasthan,North,Lakme Absolute Matte Melt Liquid Lip Color,Beauty & Personal Care,1680,4,385,UPI,Processing
+IND-2023-1818,14-04-2023,CUS-1020,Shweta Tiwari,Mumbai,Maharashtra,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,1233.1,2,391.32,UPI,Shipped
+IND-2023-1819,30-09-2023,CUS-1001,Aarav Sharma,Jaipur,Rajasthan,North,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1872,3,369,UPI,Delivered
+IND-2023-1820,05-12-2023,CUS-1023,Gaurav Bansal,Chandigarh,Punjab,North,boAt Airdopes 141 Bluetooth Earbuds,Mobiles & Accessories,4156.8,4,-623.52,Credit Card,Returned
+IND-2023-1821,06-07-2023,CUS-1018,Divya Pillai,Pune,Maharashtra,West,Sony Bravia 43-inch 4K LED TV,Electronics,33141.5,1,-286.38,Debit Card,Delivered
+IND-2023-1822,24-01-2023,CUS-1023,Gaurav Bansal,Mumbai,Maharashtra,West,The Derma Co 10% Vitamin C Face Serum,Beauty & Personal Care,2336.4,4,0,Cash on Delivery,Cancelled
+IND-2023-1823,07-09-2023,CUS-1013,Amit Mishra,Kochi,Kerala,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,5756.8,4,-863.52,Credit Card,Returned
+IND-2023-1824,11-10-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,Prestige Iris 750W Mixer Grinder,Home & Kitchen,11516.4,4,1240.3,UPI,Processing
+IND-2023-1825,07-03-2023,CUS-1022,Tanvi Deshmukh,Kochi,Kerala,South,Lavie Women Handbag,Fashion,6086,4,754.5,UPI,Processing
+IND-2023-1826,22-10-2023,CUS-1011,Aditya Joshi,Lucknow,Uttar Pradesh,North,HP Pavilion 15 Core i5 Laptop,Electronics,49491,1,1675.75,UPI,Delivered
+IND-2023-1827,20-03-2023,CUS-1013,Amit Mishra,Patna,Bihar,East,Wakefit Ergonomic Orthopedic Mattress,Home & Kitchen,49996,4,-5800,Cash on Delivery,Processing
+IND-2023-1828,27-03-2023,CUS-1005,Rohan Gupta,Chennai,Tamil Nadu,South,Biotique Botanical Glow Skincare Combo,Beauty & Personal Care,1404,2,363,Debit Card,Delivered
+IND-2023-1829,13-11-2023,CUS-1019,Manish Agarwal,Kolkata,West Bengal,East,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,2038.3,2,250.23,UPI,Delivered
+IND-2023-1830,26-03-2023,CUS-1003,Rahul Verma,Bengaluru,Karnataka,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1439.2,1,110.15,UPI,Shipped
+IND-2023-1831,02-02-2023,CUS-1011,Aditya Joshi,Chandigarh,Punjab,North,Allen Solly Casual Cotton Shirt,Fashion,5996,4,1520,UPI,Delivered
+IND-2023-1832,01-04-2023,CUS-1021,Arjun Reddy,Bengaluru,Karnataka,South,Lavie Women Handbag,Fashion,5101.5,3,968.62,Net Banking,Processing
+IND-2023-1833,07-07-2023,CUS-1019,Manish Agarwal,Ahmedabad,Gujarat,West,Fastrack Analog Watch for Men,Fashion,3496.5,3,638.62,Cash on Delivery,Delivered
+IND-2023-1834,26-11-2023,CUS-1011,Aditya Joshi,Jaipur,Rajasthan,North,Puma Unisex Smashic Sneakers,Fashion,2299,1,0,UPI,Cancelled
+IND-2023-1835,02-04-2023,CUS-1008,Pooja Nair,Indore,Madhya Pradesh,West,JBL Flip 6 Portable Bluetooth Speaker,Electronics,26997,3,3600,UPI,Delivered
+IND-2023-1836,27-12-2023,CUS-1012,Kavita Rao,Mumbai,Maharashtra,West,Mi 10000mAh Power Bank 3i,Mobiles & Accessories,2877.6,3,240.45,Credit Card,Shipped
+IND-2023-1837,20-09-2023,CUS-1017,Deepak Chopra,Indore,Madhya Pradesh,West,Logitech Wireless Keyboard & Mouse,Electronics,2840.5,2,587.88,Debit Card,Shipped
+IND-2023-1838,28-04-2023,CUS-1023,Gaurav Bansal,Kolkata,West Bengal,East,Spigen Armor Back Cover,Mobiles & Accessories,1917.6,3,390.45,Credit Card,Processing
+IND-2023-1839,14-01-2023,CUS-1022,Tanvi Deshmukh,Bengaluru,Karnataka,South,Noise ColorFit Pulse Smartwatch,Mobiles & Accessories,1439.2,1,110.15,Credit Card,Delivered
+IND-2023-1840,19-11-2023,CUS-1017,Deepak Chopra,Chennai,Tamil Nadu,South,Logitech Wireless Keyboard & Mouse,Electronics,2990,2,700,Cash on Delivery,Delivered
+IND-2023-1841,24-10-2023,CUS-1015,Karan Kapoor,Delhi,Delhi,North,Samsung Galaxy S23 5G,Mobiles & Accessories,175497.3,3,6975.22,Debit Card,Delivered
+IND-2023-1842,13-12-2023,CUS-1025,Siddharth Sen,Lucknow,Uttar Pradesh,North,Milton Thermosteel Bottle 1000ml,Home & Kitchen,2409.75,3,311.06,Cash on Delivery,Delivered
+IND-2023-1843,22-09-2023,CUS-1001,Aarav Sharma,Hyderabad,Telangana,South,Redmi Note 12 Pro 5G,Mobiles & Accessories,43998,2,4800,Credit Card,Delivered
+IND-2023-1844,09-08-2023,CUS-1004,Ananya Iyer,Bhubaneswar,Odisha,East,Allen Solly Casual Cotton Shirt,Fashion,5396.4,4,1070.3,UPI,Delivered
+IND-2023-1845,22-08-2023,CUS-1008,Pooja Nair,Indore,Madhya Pradesh,West,Philips Electric Beard Trimmer Series 3000,Beauty & Personal Care,2848.1,2,607.58,Net Banking,Delivered
+IND-2023-1846,16-07-2023,CUS-1001,Aarav Sharma,Chennai,Tamil Nadu,South,HP Pavilion 15 Core i5 Laptop,Electronics,93483,2,-772.75,Cash on Delivery,Delivered
+IND-2023-1847,28-07-2023,CUS-1011,Aditya Joshi,Lucknow,Uttar Pradesh,North,Canon EOS 1500D DSLR Camera,Electronics,71383,2,-447.75,UPI,Delivered
+IND-2023-1848,22-04-2023,CUS-1019,Manish Agarwal,Patna,Bihar,East,Samsung Galaxy S23 5G,Mobiles & Accessories,175497.3,3,6975.22,Credit Card,Delivered
+IND-2023-1849,30-08-2023,CUS-1009,Rajesh Kumar,Patna,Bihar,East,Lavie Women Handbag,Fashion,1521.5,1,188.62,Credit Card,Delivered
+IND-2023-1850,06-02-2023,CUS-1006,Sneha Mukherjee,Bengaluru,Karnataka,South,Logitech Wireless Keyboard & Mouse,Electronics,1196,1,125.75,UPI,Processing
