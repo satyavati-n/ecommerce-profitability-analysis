@@ -61,3 +61,58 @@ The analysis of 850 e-commerce order records revealed the following:
 - Study the West region's performance to identify practices that may be useful in other regions.
 - Track profit margin alongside sales instead of judging performance by sales alone.
 
+
+
+## Dataset
+
+The project uses an e-commerce sales dataset containing 850 records after duplicate Order IDs were removed during data cleaning.
+
+The dataset was used to analyze sales, profit, product categories, regions, states, payment methods, and order statuses.
+
+## 🔎 SQL Analysis
+
+The PostgreSQL analysis covers:
+
+1. Monthly sales, profit, and order trends.
+2. Sales and profit by product category.
+3. Top-selling products and their profitability.
+4. Regional sales and profit comparisons.
+5. State-level sales and profit margins.
+6. Sales and profitability by payment method.
+7. Performance by order status.
+8. Products associated with losses from returned orders.
+9. Overall sales, profit, profit margin, and order counts.
+
+The SQL queries are available in `sql/ecommerce_profitability_analysis.sql`.
+
+## Project Structure
+
+```text
+ecommerce-profitability-analysis/
+├── README.md
+├── data/
+│   ├── raw/
+│   └── cleaned/
+├── excel/
+│   ├── ecommerce_profitability_analysis.xlsx
+│   └── ecommerce_sales_working.xlsx
+├── images/
+│   ├── dashboard-overview.png
+│   ├── sales-analysis.png
+│   └── detailed-analysis.png
+└── sql/
+    └── ecommerce_profitability_analysis.sql
+```
+
+## How to Explore the Project
+
+1. View the dashboard screenshots in the README.
+2. Open the Excel workbook in the `excel/` folder to explore the dashboard and analysis sheets.
+3. Open the SQL file in the `sql/` folder to review the PostgreSQL queries.
+4. Explore the cleaned CSV in `data/cleaned/` to understand the dataset.
+
+##  Future Improvements
+
+- Build an interactive dashboard in Power BI.
+- Add more detailed analysis of return reasons and product profitability.
+- Improve the analysis with additional business metrics as needed.
