@@ -110,3 +110,17 @@ The findings describe the values recorded in the dataset. Cancelled orders have 
 
 
 
+
+
+## 📊 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](images/dashboard-overview.png)
+
+### Sales Analysis
+![Sales Analysis](images/sales-analysis.png)
+
+### Detailed Analysis
+![Detailed Analysis](images/detailed-analysis.png)
+
+
