@@ -83,7 +83,7 @@ The PostgreSQL analysis covers:
 8. Products associated with losses from returned orders.
 9. Overall sales, profit, profit margin, and order counts.
 
-The SQL queries are available in `sql/ecommerce_profitability_analysis.sql`.
+The SQL queries are available in `ecommerce_profitability_analysis.sql`.
 
 ## Project Structure
 
