@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes e-commerce sales and profitability using Excel and PostgreSQL. It explores sales trends, product performance, category profitability, regional performance, payment methods, and order statuses to identify business opportunities and loss-making areas.
+This project analyzes e-commerce sales and profitability using Excel, PostgreSQL, and Power BI. It explores sales trends, product performance, category profitability, regional performance, payment methods, and order statuses to identify business opportunities and loss-making areas.
 
 ## Business Problem
 
@@ -17,17 +17,18 @@ This project uses sales data to investigate these questions and provide data-dri
 - Compare sales and profitability across categories and regions.
 - Examine state-level performance and payment methods.
 - Evaluate order statuses and losses associated with returned orders.
-- Build an Excel dashboard to communicate the findings.
-
+- Build interactive dashboards using Excel and Power BI to communicate business insights.
+  
 ## Tools Used
 
 - **Microsoft Excel:** Data exploration, PivotTables, charts, KPI summary, and dashboard creation.
 - **PostgreSQL:** SQL queries, aggregations, profitability calculations, and business analysis.
+- **Power BI:** Data visualization, interactive dashboards, KPI cards, slicers, and business performance reporting.
 - **Git and GitHub:** Version control, project documentation, and portfolio publishing.
 
 ## 📊 Dashboard Preview
 
-View the Excel dashboard screenshots below.
+View the Excel and PowerBi dashboard screenshots below.
 
 
 ### Dashboard Overview
@@ -38,6 +39,9 @@ View the Excel dashboard screenshots below.
 
 ### Detailed Analysis
 ![Detailed Analysis](images/detailed-analysis.png)
+
+### Power BI Dashboard
+![Power BI Dashboard](images/powerbi-dashboard.png)
 
 
 
@@ -83,7 +87,7 @@ The PostgreSQL analysis covers:
 8. Products associated with losses from returned orders.
 9. Overall sales, profit, profit margin, and order counts.
 
-The SQL queries are available in `ecommerce_profitability_analysis.sql`.
+The SQL queries are available in ecommerce_profitability_analysis.sql
 
 ## Project Structure
 
@@ -99,20 +103,26 @@ ecommerce-profitability-analysis/
 ├── images/
 │   ├── dashboard-overview.png
 │   ├── sales-analysis.png
-│   └── detailed-analysis.png
+│   ├── detailed-analysis.png
+│   └── powerbi-dashboard.png   
+├── powerbi/
+│   └── ecommerce_profitability_analysis.pbix
 └── sql/
     └── ecommerce_profitability_analysis.sql
 ```
+## Skills Demonstrated
 
+- Data cleaning and preparation
+- Excel PivotTables and dashboard development
+- SQL querying and business analysis using PostgreSQL
+- Data visualization and interactive reporting using Power BI
+- Business insights and recommendations
+  
 ## How to Explore the Project
 
 1. View the dashboard screenshots in the README.
-2. Open the Excel workbook in the `excel/` folder to explore the dashboard and analysis sheets.
-3. Open the SQL file in the `sql/` folder to review the PostgreSQL queries.
-4. Explore the cleaned CSV in `data/cleaned/` to understand the dataset.
+2. Open the Excel workbook in the excel folder to explore the dashboard and analysis sheets.
+3. Open the SQL file in the sql folder to review the PostgreSQL queries.
+4. Explore the cleaned CSV in data/cleaned to understand the dataset.
+5. Open the Power BI file in Power BI Desktop to explore the interactive dashboard.
 
-##  Future Improvements
-
-- Build an interactive dashboard in Power BI.
-- Add more detailed analysis of return reasons and product profitability.
-- Improve the analysis with additional business metrics as needed.
